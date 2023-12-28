@@ -26,7 +26,7 @@ Les Hommes sont de par leur constitution des Yamés, mais il peuvent maîtriser 
 
   
 
-L’Humanité redouble d’idée pour faciliter ses productions & ses projets. Un problème vient souvent avec cette problématique : Comme l’humanité est la race la plus peuplé du monde, ces besoins en énergies sont très souvent bien supérieurs aux autres races, ils sont donc constamment à la recherche d’une source d’énergie permettant ma réalisation de leur projets.
+L’Humanité redouble d’idée pour faciliter ses productions & ses projets. Un problème vient souvent avec cette problématique : Comme l’humanité est la race la plus peuplé du monde, ses besoins en énergies sont très souvent bien supérieurs aux autres races, ils sont donc constamment à la recherche d’une source d’énergie permettant la réalisation de leur projets.
 
   
 

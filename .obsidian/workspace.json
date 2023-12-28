@@ -1,76 +1,39 @@
 {
   "main": {
-    "id": "c49d3a51c63dd15e",
+    "id": "205047fe25cbb50b",
     "type": "split",
     "children": [
       {
-        "id": "c11803596385ed28",
+        "id": "61a5cd8046a68f5e",
         "type": "tabs",
         "children": [
           {
-            "id": "bc2d2706b2b0c805",
+            "id": "c22037a5da9b8a1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Migration EVERNOTE/04 - Les Arcs/Home - Arcs.md",
+                "file": "01 - Géographie/Continents/L'Amarthie.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6309b0dc0cb9b49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Univers/00 - Univers HOME.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6bb874194006d02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - TimeLine/02 - TimeLine Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30b137ad2b8c79c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WizeCosm - Home.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a369e86853298eaf",
+    "id": "4ae9e6b7b58d4f1a",
     "type": "split",
     "children": [
       {
-        "id": "eb60eabf8008b1dc",
+        "id": "78dbbba6e26a4035",
         "type": "tabs",
         "children": [
           {
-            "id": "7e200dea0aec60af",
+            "id": "608cc1e1ae996ced",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,12 +43,12 @@
             }
           },
           {
-            "id": "2edaf8e55e0977de",
+            "id": "97c45e91e8fcae1e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "d'**Ellimue**",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +58,7 @@
             }
           },
           {
-            "id": "a545f89a7b727332",
+            "id": "179642c0672e031b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 300
   },
   "right": {
-    "id": "3be19bc00af28c04",
+    "id": "d1b5d62877316f19",
     "type": "split",
     "children": [
       {
-        "id": "9fb69e005f3a41f4",
+        "id": "eab8903100144fa0",
         "type": "tabs",
         "children": [
           {
-            "id": "cde990b781a7f735",
+            "id": "dfa63ab8b141003f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WizeCosm - Home.md",
+                "file": "01 - Géographie/Continents/L'Amarthie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,19 +97,19 @@
             }
           },
           {
-            "id": "c9a5f5d28b1a301c",
+            "id": "1ac67ee8e7a7ce53",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WizeCosm - Home.md",
+                "file": "01 - Géographie/Continents/L'Amarthie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7ae8222d38e41251",
+            "id": "97093779d146eeac",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,12 +120,12 @@
             }
           },
           {
-            "id": "ee235f1c0d71b6e7",
+            "id": "68062f580fc63645",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "WizeCosm - Home.md"
+                "file": "01 - Géographie/Continents/L'Amarthie.md"
               }
             }
           }
@@ -175,66 +138,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "publish:Publish changes...": false
     }
   },
-  "active": "30b137ad2b8c79c6",
+  "active": "608cc1e1ae996ced",
   "lastOpenFiles": [
-    "05 - Assets/05 - Asset HOME.md",
-    "2023-12-12.md",
-    "WizeCosm - Home.md",
-    "02 - TimeLine/02 - TimeLine Home.md",
-    "00 - Univers/00 - Univers HOME.md",
-    "03 - Personnages/03 - Personnages HOME.md",
-    "04 - Arcs/04 - Arcs HOME.md",
+    "01 - Géographie/Continents/L'Aldisil.md",
+    "01 - Géographie/Pays/Cité état de Glothäm.md",
+    "01 - Géographie/Pays/Cloudia.md",
+    "01 - Géographie/Pays/Contria.md",
+    "01 - Géographie/Pays/Sterdia.md",
+    "05 - Assets/Pasted image 20231227103529.png",
+    "01 - Géographie/Continents/00 - Home Continent.md",
     "01 - Géographie/01 - Géographie HOME.md",
-    "01 - Géographie/WorldMap",
-    "01 - Géographie/Pays",
-    "01 - Géographie/Continents",
-    "00 - Univers/Plénitude",
-    "00 - Univers/Les Créatures",
-    "00 - Univers/Les Cosmers",
-    "00 - Univers/Les Cultes",
-    "00 - Univers/Les Races",
-    "Migration EVERNOTE/04 - Les Arcs/Home - Arcs.md",
-    "05 - Assets/Capture d’écran 2023-09-10 à 12.05.30.png",
-    "Migration EVERNOTE/03.1 - Les Races/les humains.md",
-    "Migration EVERNOTE/03.1 - Les Races/Les Elfs.md",
-    "Migration EVERNOTE/03.1 - Les Races/Les Orcs.md",
-    "Migration EVERNOTE/03.1 - Les Races/Les Phoséidiens.md",
-    "Migration EVERNOTE/03.1 - Les Races/Les Fustilisiens (Végétoides).md",
-    "05 - Assets/Snapshot.png",
-    "05 - Assets/IMG_3012.png",
-    "Migration EVERNOTE/03.1 - Les Races/Les Nains.md",
-    "05 - Assets",
+    "WizeCosm - Home.md",
+    "Les Abysses de N'yla.md",
+    "00 - Univers/00 - Univers HOME.md",
+    "01 - Géographie/Continents/Les Abysses de N'yla.md",
+    "01 - Géographie/Continents/Les Abysses de N’yla.md",
+    "Templates/WizeCosm - Kanban.md",
+    "00 - Univers/Les Races/Les Elfs.md",
+    "00 - Univers/Les Races/Les Fustilisiens.md",
+    "00 - Univers/Les Races/Les Hommes.md",
+    "00 - Univers/Les Races/Les Nains.md",
+    "00 - Univers/Les Races/Les Orcs.md",
+    "00 - Univers/Les Races/Les Phoséidiens.md",
+    "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Géographie - 00 INSPI.md",
+    "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Ville de Glothäm.md",
+    "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Territoires Yamé - Gamés.md",
+    "Migration EVERNOTE/Deux Factions Yamé & Gamé/Les factions.md",
+    "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Continents/Continent - Abysses de Nacci.md",
+    "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Continents/Continent - Abysses de Ktana.md",
+    "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Continents/Continent - Abysses de N’yla.md",
+    "00 - Univers/Les Factions",
     "Untitled.canvas",
-    "04 - Arcs",
-    "Migration EVERNOTE/Snapshot 1.jpg",
-    "Migration EVERNOTE/Snapshot.png",
-    "Migration EVERNOTE/Snapshot.jpg",
-    "Migration EVERNOTE/Sketch.png",
-    "Migration EVERNOTE/Pasted image 20231211222942.png",
-    "Migration EVERNOTE/Pasted image 20231211212320.png",
-    "Migration EVERNOTE/Pasted image 20231211212233.png",
-    "Migration EVERNOTE/03 - Les Personnages/Fiche personnage - Safiya.md",
-    "Migration EVERNOTE/03 - Les Personnages/Fiche personnage - Riaec.md",
-    "Migration EVERNOTE/03 - Les Personnages/Fiche Personnage - Prêtre Flageol.md",
-    "Migration EVERNOTE/03 - Les Personnages/Fiche Personnage - Pietro.md",
-    "Migration EVERNOTE/03 - Les Personnages/Fiche personnage - Paléisto.md",
-    "Migration EVERNOTE/03 - Les Personnages/Fiche personnage - Ophélia.md",
-    "Migration EVERNOTE/03 - Les Personnages/Fiche personnage - Okö.md",
-    "Migration EVERNOTE/03 - Les Personnages/Fiche personnage - Moal.md",
-    "Migration EVERNOTE/03 - Les Personnages/Fiche personnage - Liséa.md",
-    "Migration EVERNOTE/03 - Les Personnages/Fiche personnage - Kiesh.md",
-    "Migration EVERNOTE/03 - Les Personnages/Fiche personnage - Khij'.md"
+    "Templates",
+    "Sans titre",
+    "05 - Assets/yamegame conflits.pdf",
+    "05 - Assets/Carte Wizcosm Informatisé - Copie.png",
+    "05 - Assets/image 5.png",
+    "05 - Assets/image 4.png",
+    "05 - Assets/image 3.png",
+    "05 - Assets/Snapshot 1.jpg",
+    "05 - Assets/IMG_2013.jpg",
+    "05 - Assets/Evernote Snapshot 20180630 232608.png",
+    "05 - Assets/Evernote Snapshot 20180702 004905.png",
+    "05 - Assets/IMG_0408.png",
+    "Migration EVERNOTE/09 - Les Artéfacts",
+    "05 - Assets/IMG_2686 1.heic",
+    "05 - Assets/IMG_2686.heic",
+    "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Capitales",
+    "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Pays",
+    "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Continents"
   ]
 }

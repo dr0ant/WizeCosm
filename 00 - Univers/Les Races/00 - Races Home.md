@@ -1,0 +1,6 @@
+[[Les Elfs]]
+[[Les Fustilisiens]]
+[[Les Hommes]]
+[[Les Nains]]
+[[Les Orcs]]
+[[Les Phoséidiens]]

@@ -33,10 +33,7 @@ Ainsi les champignons qu’ils mangent ont comme caractéristique d’absorber l
 
 Ceci ce traduit par une peau très robuste (à la limite du cuir), une musculature extrêmement développée et des Os unbrisable.
 
-  
-
-  
-
+ 
 Le savoir nain est reconnu dans le monde entier, la
 
 grande majorité des grand edifices Yamés ont été designés et construit grace aux nains !

@@ -6,5 +6,8 @@
   "remotely-save",
   "obsidian-git",
   "dataview",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-timelines",
+  "obsidian-tts",
+  "obsidian-regex-replace"
 ]
