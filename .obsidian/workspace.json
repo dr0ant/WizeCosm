@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "205047fe25cbb50b",
+    "id": "47c6caad90a5d9d6",
     "type": "split",
     "children": [
       {
-        "id": "61a5cd8046a68f5e",
+        "id": "b9b057976811ade8",
         "type": "tabs",
         "children": [
           {
-            "id": "c22037a5da9b8a1a",
+            "id": "8883896ae4c44487",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Géographie/Continents/L'Amarthie.md",
-                "mode": "source",
+                "file": "04 - Arcs/05 - Arc 1/Partie 1 - La traversée.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4ae9e6b7b58d4f1a",
+    "id": "b94d9800280738e1",
     "type": "split",
     "children": [
       {
-        "id": "78dbbba6e26a4035",
+        "id": "f10a9501eab0ceeb",
         "type": "tabs",
         "children": [
           {
-            "id": "608cc1e1ae996ced",
+            "id": "260940bee3afd5f1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "97c45e91e8fcae1e",
+            "id": "0887e8f2e013872b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "d'**Ellimue**",
+                "query": "palé",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "179642c0672e031b",
+            "id": "48306ea7356dd07d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 357.5
   },
   "right": {
-    "id": "d1b5d62877316f19",
+    "id": "fe2ed49ffb8870ca",
     "type": "split",
     "children": [
       {
-        "id": "eab8903100144fa0",
+        "id": "e4a0c7abbcf36e11",
         "type": "tabs",
         "children": [
           {
-            "id": "dfa63ab8b141003f",
+            "id": "2d926ab7af5232d7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Géographie/Continents/L'Amarthie.md",
+                "file": "04 - Arcs/05 - Arc 1/Partie 1 - La traversée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "1ac67ee8e7a7ce53",
+            "id": "8c670fae8cece15e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Géographie/Continents/L'Amarthie.md",
+                "file": "04 - Arcs/05 - Arc 1/Partie 1 - La traversée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "97093779d146eeac",
+            "id": "b7c6a7bc49399c6f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "68062f580fc63645",
+            "id": "79c8c85b405aa55c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Géographie/Continents/L'Amarthie.md"
+                "file": "04 - Arcs/05 - Arc 1/Partie 1 - La traversée.md"
               }
             }
           }
@@ -144,57 +144,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "608cc1e1ae996ced",
+  "active": "8883896ae4c44487",
   "lastOpenFiles": [
-    "01 - Géographie/Continents/L'Aldisil.md",
-    "01 - Géographie/Pays/Cité état de Glothäm.md",
-    "01 - Géographie/Pays/Cloudia.md",
-    "01 - Géographie/Pays/Contria.md",
-    "01 - Géographie/Pays/Sterdia.md",
-    "05 - Assets/Pasted image 20231227103529.png",
-    "01 - Géographie/Continents/00 - Home Continent.md",
-    "01 - Géographie/01 - Géographie HOME.md",
-    "WizeCosm - Home.md",
-    "Les Abysses de N'yla.md",
-    "00 - Univers/00 - Univers HOME.md",
-    "01 - Géographie/Continents/Les Abysses de N'yla.md",
-    "01 - Géographie/Continents/Les Abysses de N’yla.md",
-    "Templates/WizeCosm - Kanban.md",
-    "00 - Univers/Les Races/Les Elfs.md",
-    "00 - Univers/Les Races/Les Fustilisiens.md",
-    "00 - Univers/Les Races/Les Hommes.md",
-    "00 - Univers/Les Races/Les Nains.md",
-    "00 - Univers/Les Races/Les Orcs.md",
-    "00 - Univers/Les Races/Les Phoséidiens.md",
-    "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Géographie - 00 INSPI.md",
-    "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Ville de Glothäm.md",
-    "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Territoires Yamé - Gamés.md",
-    "Migration EVERNOTE/Deux Factions Yamé & Gamé/Les factions.md",
-    "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Continents/Continent - Abysses de Nacci.md",
-    "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Continents/Continent - Abysses de Ktana.md",
-    "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Continents/Continent - Abysses de N’yla.md",
-    "00 - Univers/Les Factions",
-    "Untitled.canvas",
-    "Templates",
-    "Sans titre",
-    "05 - Assets/yamegame conflits.pdf",
-    "05 - Assets/Carte Wizcosm Informatisé - Copie.png",
-    "05 - Assets/image 5.png",
-    "05 - Assets/image 4.png",
-    "05 - Assets/image 3.png",
-    "05 - Assets/Snapshot 1.jpg",
-    "05 - Assets/IMG_2013.jpg",
-    "05 - Assets/Evernote Snapshot 20180630 232608.png",
-    "05 - Assets/Evernote Snapshot 20180702 004905.png",
-    "05 - Assets/IMG_0408.png",
-    "Migration EVERNOTE/09 - Les Artéfacts",
-    "05 - Assets/IMG_2686 1.heic",
-    "05 - Assets/IMG_2686.heic",
-    "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Capitales",
-    "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Pays",
-    "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Continents"
+    "00 - Univers/Les Cultes/Le culte de la lumière/Le Culte de la lumière.md",
+    "00 - Univers/Les Cultes/Le culte de la lumière/Unholly sacrifice.md",
+    "00 - Univers/Les Cultes/Le culte de la lumière/L'armée des flammes.md",
+    "00 - Univers/Les Cultes/Le culte de la lumière",
+    "00 - Univers/Les Cosmers/Examen d'entrée du Tournois des Cosmers.md",
+    "04 - Arcs/05 - Arc 1/Partie 5 - Combat au sommet.md",
+    "04 - Arcs/05 - Arc 1/Partie 4 - Entrée en scène de Plénitude.md",
+    "04 - Arcs/05 - Arc 1/Partie 3 - Rencontre équipages Yamés ¦ Gamé.md",
+    "04 - Arcs/05 - Arc 1/Partie 2 - la découverte des îles.md",
+    "04 - Arcs/05 - Arc 1/Partie 1 - La traversée.md",
+    "04 - Arcs/04 - Phase 4/NARRATIF - Phase 4 - Préparation du Voyage de Hank.md",
+    "04 - Arcs/01 - Phase 1/NARRATIF - Phase 1 - Hank revient de la guerre, fin du cauchemar.md",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S1/Phase 1 scene 1.md",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S2/Phase 1 scene 2.md",
+    "05 - Assets/00000-3353534420.png",
+    "05 - Assets/20b8c90b-5ccc-47fb-8ee0-84f75a1435fe.jpg",
+    "05 - Assets/6146ee2d-fa1f-48e3-8a28-4fcf3eff3747.jpg",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S1/CRP1S0.md",
+    "05 - Assets/0207dd29-048d-41e1-abb2-51a05ef5f064.jpg",
+    "05 - Assets/87b7fd62-4ee4-4d1c-a534-d19c79b26d39.jpg",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S4/CP1S4.md",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S3/CRP1S3.md",
+    "05 - Assets/Pasted image 20240313100912.png",
+    "05 - Assets/IMG_0424.png",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S1/CRP1S1.md",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S1/Untitled.md",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S7",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S6",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S5",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S4",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S3",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S2",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S1",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S7/Phase 1 scene 7.md",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S6/Phase 1 scene 6.md",
+    "04 - Arcs/01 - Phase 1/Untitled.md",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S5/Phase 1 scene 5.md",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S4/Phase 1 scene 4.md",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S3/Phase 1 scene 3.md",
+    "05 - Assets/Pasted image 20240312191344.png",
+    "05 - Assets/Pasted image 20240312190250.png",
+    "04 - Arcs/04 - Arcs HOME.md",
+    "04 - Arcs/04 - Phase 4/SCENES - Phase 4",
+    "04 - Arcs/03 - Phase 3/SCENES - Phase 3",
+    "04 - Arcs/03 - Phase 3/NARRATIF - Phase 3 - La pluie d'étoile.md",
+    "05 - Assets/427980711_368993032703937_5695039846606356235_n.png"
   ]
 }

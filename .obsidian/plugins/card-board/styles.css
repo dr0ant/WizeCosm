@@ -24,7 +24,7 @@
 .card-board-view {
   height: 100%;
   background-color: var(--background-primary);
-  font-size: var(--font-normal);
+  font-size: var(--font-text-size);
 }
 
 .mod-macos.is-hidden-frameless:not(.is-popout-window) .workspace .workspace-tabs.mod-top-right-space .card-board-view .workspace-tab-header-container {
@@ -87,6 +87,11 @@ body:not(.is-grabbing):not(.is-fullscreen).is-hidden-frameless .mod-top .card-bo
   grid-row-start: 1;
 }
 
+.card-board-column-with-beacons {
+  display: flex;
+  flex-direction: row;
+}
+
 .card-board-columns {
   display: flex;
 }
@@ -101,6 +106,7 @@ body:not(.is-grabbing):not(.is-fullscreen).is-hidden-frameless .mod-top .card-bo
   padding: 0.6em 1em 1em 1em;
   margin-right: 15px;
   width: 20em;
+  cursor: grab;
   background-color: var(--background-secondary);
   border-radius: 3px;
   border: var(--border-width) solid var(--background-modifier-border);
@@ -206,12 +212,14 @@ ul.card-board-column-list > li.card-board-card::before {
   border: var(--border-width) solid var(--background-modifier-border);
   background-color: var(--background-primary);
   padding: 0;
+  cursor: auto;
   user-select: text;
   -webkit-user-select: text;
   grid-column-gap: 0.25em;
   display: grid;
   grid: "mark contents"
         / 5px auto;
+  font-family: var(--font-text);
 }
 
 .card-board-card-highlight-area {
@@ -260,16 +268,6 @@ ul.card-board-column-list > li.card-board-card::before {
   width: 1em;
   height: 1em;
   font-size: 1em;
-}
-
-.checkbox-container.is-mid-enabled {
-  background-color: var(--interactive-accent-hover);
-}
-.checkbox-container.is-mid-enabled:after {
-  transform: translate3d(calc((var(--toggle-width) - var(--toggle-thumb-width) - var(--toggle-border-width)) / 2), 0, 0);
-}
-.checkbox-container.is-mid-enabled:active:after {
-  left: -4px;
 }
 
 .card-board-card-title {
@@ -361,17 +359,63 @@ ul.card-board-column-list > li.card-board-card::before {
   cursor: pointer;
 }
 
-.card-board-view .modal-content {
-  display: grid;
-  grid: "select form"
-        / 200px auto;
-  overflow: hidden;
-  margin-top: 0;
-}
-
 .setting-items-inner {
   position: relative;
   height: auto;
+}
+
+.cardboard-settings-columns-list {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+h3.setting-heading-compact {
+  margin-block-end: 0;
+}
+
+.example-stamp {
+  font-weight: var(--bold-weight);
+}
+
+.cardboard-settings-column-item {
+  display: grid;
+  grid-template-columns: 2em 5em 1fr 1fr 1.5em;
+  align-items: center;
+  gap: var(--size-4-2);
+  border: var(--border-width) solid var(--background-modifier-border);
+  border-radius: 4px;
+  background-color: var(--background-secondary);
+  width: 100%;
+  padding: var(--size-4-1) var(--size-4-2);
+  margin-bottom: 0.4em;
+}
+
+.cardboard-settings-column-item-button {
+  display: grid;
+  align-items: center;
+  cursor: pointer;
+}
+
+.cardboard-settings-column-item-detail {
+  display: grid;
+  align-items: center;
+}
+
+.cardboard-settings-column-item-type {
+  font-size: 0.7em;
+}
+
+.cardboard-settings-column-item-controls {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  gap: var(--size-4-2);
+}
+
+.cardboard-settings-columns-button {
+  padding-bottom: 0.75em;
 }
 
 .vertical-tab-header-group-title-icon {
@@ -380,19 +424,29 @@ ul.card-board-column-list > li.card-board-card::before {
   float: right;
 }
 
+.modal.edit-date {
+  overflow: visible;
+}
+
 .modal.mod-settings {
   width: 80%;
 }
 
+.card-board-view .card-board-dragable {
+  cursor: grab;
+}
+
 .card-board-view .vertical-tab-nav-item {
   padding-right: 1.5em;
-  cursor: grab;
+  min-height: 1.9em;
 }
 
 .modal-form {
   display: grid;
   grid-gap: 1.5em;
   padding-top: 1.3em;
+  padding-bottom: 1.5em;
+  border-bottom: 1px solid var(--background-modifier-border);
 }
 
 .form-item {
@@ -442,6 +496,13 @@ ul.card-board-column-list > li.card-board-card::before {
   gap: 3px;
 }
 
+.multiselect-items.mod-faux {
+  justify-content: flex-end;
+  background: var(--background-modifier-form-field);
+  border: 0px;
+  font-size: var(--font-ui-medium);
+}
+
 .multiselect-items input.multiselect-input {
   border: 0;
   min-width: 100px;
@@ -468,6 +529,17 @@ ul.card-board-column-list > li.card-board-card::before {
   border-right: 0px;
   border-top-left-radius: 4px;
   border-bottom-left-radius: 4px;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-bottom: 2px;
+  line-height: 1.5em;
+  vertical-align: middle;
+}
+
+.multiselect-item-single {
+  background-color: var(--background-secondary-alt);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
   padding-left: 4px;
   padding-right: 4px;
   padding-bottom: 2px;
@@ -503,14 +575,39 @@ ul.card-board-column-list > li.card-board-card::before {
   vertical-align: middle;
 }
 
+
+.card-board-view .vertical-tab-content {
+  position: relative;
+}
+
+.card-board-view .modal-close-button {
+  z-index: 1;
+}
+
 .card-board-view .suggestion-container {
+  position: absolute;
   display: grid;
   grid-auto-flow: row;
   grid-gap: 0.5em;
+  overflow: auto;
   padding: 5px 8px;
   font-size: var(--font-small);
   text-align: left;
   line-height: 1em;
+  max-height: 400px;
+}
+
+.card-board-view .suggestion-container::-webkit-scrollbar {
+  width: 8px;
+}
+
+.card-board-view .suggestion-container::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.card-board-view .suggestion-container::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
 }
 
 .card-board-view .suggestion-section {
@@ -537,4 +634,148 @@ ul.card-board-column-list > li.card-board-card::before {
 
 .setting-item-control .suggestion-item:hover {
   background-color: var(--background-secondary);
+}
+
+
+
+.datepicker-container {
+  position: relative;
+}
+
+.datepicker-input:focus {
+  outline: 0;
+}
+
+.datepicker-input.datepicker-error {
+  background-color: rgba(var(--background-modifier-error-rgb), 0.2);
+}
+
+.datepicker-picker {
+  position: absolute;
+  border: 1px solid #CCC;
+  border-radius: 3px;
+  z-index: 100;
+  background-color: white;
+}
+
+.datepicker-header, .datepicker-weekdays {
+  background: var(--background-secondary);
+}
+
+.datepicker-header {
+  display: flex;
+  align-items: center;
+}
+
+.datepicker-month-container {
+  flex: 1 1 auto;
+  padding-top: 0.5em;
+  display: flex;
+  flex-direction: column;
+}
+
+.datepicker-month, .datepicker-year {
+  flex: 1 1 auto;
+  cursor: default;
+  text-align: center;
+}
+
+.datepicker-year {
+  font-size: var(--font-small);
+  font-weight: 700;
+}
+
+.datepicker-this-month-jump-container {
+  text-align: center;
+  background: var(--background-secondary);
+}
+
+.datepicker-this-month-jump {
+  cursor: pointer;
+  color: var(--interactive-accent);
+}
+
+.datepicker-prev-container, .datepicker-next-container {
+  cursor: pointer;
+  padding: 8px;
+}
+
+.datepicker-prev, .datepicker-next {
+  display: block;
+  width: var(--font-smaller);
+  height: var(--font-smaller);
+  border-left: 2px solid rgba(0,0,0,0.54);
+  border-bottom: 2px solid rgba(0,0,0,0.54);
+}
+
+.datepicker-prev:hover, .datepicker-next:hover {
+  border-left-color: #BBB;
+  border-bottom-color: #BBB;
+}
+
+.datepicker-prev {
+  transform: rotate(45deg);
+}
+
+.datepicker-next {
+  transform: rotate(-135deg);
+}
+
+.datepicker-table {
+  border-spacing: 0;
+  border-collapse: collapse;
+  font-size: var(--font-smaller);
+}
+
+.datepicker-table td {
+  width: 2em;
+  height: 2em;
+  text-align: center;
+  border-radius: 3px;
+}
+
+.datepicker-dow {
+  border-bottom: 1px solid #CCC;
+  cursor: default;
+}
+
+.datepicker-day {
+  cursor: pointer;
+}
+.datepicker-day:hover {
+  background: #F2F2F2;
+}
+
+.datepicker-disabled {
+  cursor: default;
+  color: #DDD;
+}
+.datepicker-disabled:hover {
+  background: inherit;
+}
+
+.datepicker-picked {
+  color: white;
+  background: var(--interactive-accent);
+}
+
+.datepicker-picked:hover {
+  background: var(--interactive-accent);
+}
+
+.datepicker-today {
+  font-weight: bold;
+  color: var(--interactive-accent);
+}
+
+.datepicker-other-month {
+  color: #AAA;
+}
+
+.datepicker-other-month.datepicker-disabled {
+  color: #EEE;
+}
+
+.datepicker-other-month.datepicker-picked {
+  color: white;
 }

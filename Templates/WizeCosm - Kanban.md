@@ -14,24 +14,25 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Définition des continents
 - [ ] Définition des Pays
 - [ ] intégration de la map QGIS
-- [ ] Def Amarthie
 - [ ] Def Kritia
-- [ ] Def Aldisil
-- [ ] Def Kramargue
 - [ ] Def Abysses de N’yla
 - [ ] Def Abysses de Ktana
 - [ ] Def Îles émergées
+- [ ] QGIS - Ajouter Layer Lacs & Fleuves rivières etc
 
 
 ## In Progress
 
+- [ ] Définition des continents
 
 
 ## Done
 
+- [ ] Def Aldisil
+- [ ] Def Amarthie
+- [ ] Def Kramargue
 - [ ] Définition Histoire Phoséidiens @{2023-12-30}
 - [ ] Définition Histoire Orcs @{2023-12-30}
 - [ ] Définition Histoire Elf @{2023-12-30}

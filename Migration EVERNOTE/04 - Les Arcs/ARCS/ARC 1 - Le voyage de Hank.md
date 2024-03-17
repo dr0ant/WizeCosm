@@ -979,7 +979,7 @@ Il pensa aussi à ceux qu’il avait laissé derrière lui.. Oko, Taneï… Ses 
 
   
 
-Öko, revenait de la forêt de Fray,et commençant à comprendre qu'il n'était pas comme les autres.
+Öko, revenait de la forêt de Fray, et commençant à comprendre qu'il n'était pas comme les autres.
 
 Il s'exerçait en cachette dans la forêt depuis quelques années. Il était capable d'invoquer via des portails des créature qu'il avait rencontré/apprivoisé.
 
@@ -1033,9 +1033,7 @@ Hank tournait autour de Moal pour perdre son regard. Il lança ces deux haches t
 
   
 
-Ce dernier se retrouva entravé par la chaine reliant
-
-les haches.
+Ce dernier se retrouva entravé par la chaine reliant les haches.
 
 Hank se jeter rapidement sur lui puis s’alourdit énormément pour frapper Moal au visage.
 
@@ -1075,7 +1073,7 @@ Hank et Moal se faisaient face.
 
   
 
-Le combat repris au corp à corp à corp, Moal étant plus massif que Hank il avait un gros avantage. Néanmoins Hank résistait encore et encore.
+Le combat repris au corp à corp, Moal étant plus massif que Hank il avait un gros avantage. Néanmoins Hank résistait encore et encore.
 
   
 

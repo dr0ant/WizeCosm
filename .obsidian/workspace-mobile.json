@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "94825b2faae07c3e",
+        "id": "82101d1057aad1fa",
         "type": "tabs",
         "children": [
           {
-            "id": "2a2e51e72837a41a",
+            "id": "a0535c12d88e1f6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Continents/Continent - Aldisil.md",
-                "mode": "source",
+                "file": "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S2/Phase 1 scene 2.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Continents/Continent - Aldisil.md",
+            "file": "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S2/Phase 1 scene 2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Continents/Continent - Aldisil.md",
+            "file": "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S2/Phase 1 scene 2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Continents/Continent - Aldisil.md"
+            "file": "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S2/Phase 1 scene 2.md"
           }
         }
       }
@@ -124,10 +124,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-tts:Text to Speech": false,
-      "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "remotely-save:Remotely Save": false,
-      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -136,44 +132,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a2e51e72837a41a",
+  "active": "a0535c12d88e1f6b",
   "lastOpenFiles": [
-    "01 - Géographie/Continents/00 - Home Continent.md",
-    "01 - Géographie/01 - Géographie HOME.md",
-    "WizeCosm - Home.md",
-    "01 - Géographie/Continents/L'Amarthie.md",
-    "01 - Géographie/Continents/Les Abysses de Ktana.md",
-    "01 - Géographie/Continents/La Kritia.md",
-    "La Kramargue.md",
-    "01 - Géographie/Continents/L'Aldisil.md",
-    "Les Abysses de N'yla.md",
-    "00 - Univers/Les Races/Les Orcs.md",
-    "00 - Univers/Les Races/Les Elfs.md",
-    "00 - Univers/Les Races/Les Nains.md",
-    "00 - Univers/Les Races/Les Fustilisiens.md",
-    "00 - Univers/Les Races/00 - Races Home.md",
-    "Migration EVERNOTE/06 - Les mythes & Préhistoire/Le Vikthan Ancestral.md",
-    "Migration EVERNOTE/03.1 - Les Races/Les Phoséidiens.md",
-    "00 - Univers/Les Races/Les Phoséidiens.md",
-    "01 - Géographie/Continents/Les Abysses de N’yla.md",
-    "01 - Géographie/Continents/La Kritia 2.md",
-    "00 - Univers/00 - Univers HOME.md",
-    "Migration EVERNOTE/03.1 - Les Races/les humains.md",
-    "00 - Univers/Les Races/Les Hommes.md",
-    "Templates/WizeCosm - Kanban.md",
-    "Migration EVERNOTE/03 - Les Personnages/Fiche personnage - Riaec.md",
-    "Home.md",
-    "Migration EVERNOTE/01.1 - Les Ères & Périodes Résumées/01 - Ères/Ère  04 - Ere des Cosmers.md",
-    "Migration EVERNOTE/Sketch.png",
-    "Migration EVERNOTE/image.png",
-    "Migration EVERNOTE/Organisation Cosmer.drawio.png",
-    "Migration EVERNOTE/IMG_3278.png",
-    "Migration EVERNOTE/IMG_3536.png",
-    "Migration EVERNOTE/2021-02-02 21.41.22.png",
-    "Migration EVERNOTE/IMG_3279.png",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S1/Phase 1 scene 1.md",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S1/CRP1S1.md",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S1/CRP1S0.md",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S5/Phase 1 scene 5.md",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S4/CP1S4.md",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S4/Phase 1 scene 4.md",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S2/Phase 1 scene 2.md",
+    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S3/CRP1S3.md",
+    "04 - Arcs/01 - Phase 1/NARRATIF - Phase 1 - Hank revient de la guerre, fin du cauchemar.md",
+    "05 - Assets/IMG_0424.png",
+    "05 - Assets/427980711_368993032703937_5695039846606356235_n.png",
+    "02 - TimeLine/02 - TimeLine Home.md",
+    "04 - Arcs/01 - Phase 1/Phase 1 - Hank revient de la guerre, fin du cauchemar.md",
     "Migration EVERNOTE/Evernote Snapshot 20200814 195307.png",
-    "Migration EVERNOTE/IMG_0202.png",
-    "Migration EVERNOTE/IMG_0216.png",
+    "Migration EVERNOTE/Evernote Snapshot 20200714 121249.png",
+    "Migration EVERNOTE/Evernote Snapshot 20180630 234951.png",
+    "Migration EVERNOTE/Pasted image 20231211222942.png",
+    "Migration EVERNOTE/03 - Les Personnages/Fiche personnage - Kiesh.md",
+    "Migration EVERNOTE/03 - Les Personnages/Fiche Personnage - Pietro.md",
+    "Migration EVERNOTE/03 - Les Personnages/Fiche personnage - Riaec.md",
+    "Migration EVERNOTE/image.png",
+    "Migration EVERNOTE/03 - Les Personnages/Fiche personnage - Hapotschy \"Hatschy\".md",
+    "04 - Arcs/04 - Arcs HOME.md",
+    "06 - Pilote Chap 1/Page 1.md",
+    "Templates/WizeCosm - Kanban.md",
+    "06 - Pilote Chap 1/06 - Pilote Chap 1 - Home.md",
+    "WizeCosm - Home.md",
+    "05 - Assets/Pasted image 20240130154414.png",
+    "01 - Géographie/Continents/La Kramargue.md",
+    "01 - Géographie/Continents/L'Aldisil.md",
+    "01 - Géographie/Capitales/Helboug.md",
+    "01 - Géographie/Capitales",
+    "01 - Géographie/Pays/L’Azizia.md",
+    "00 - Univers/Les Races/Les Elfs.md",
+    "01 - Géographie/Continents/00 - Home Continent.md",
+    "Migration EVERNOTE/Sketch.png",
+    "Migration EVERNOTE/Organisation Cosmer.drawio.png",
     "Migration EVERNOTE/Paléisto_scheme.pdf",
     "Migration EVERNOTE/IMG_2181.heic",
     "Migration EVERNOTE/01 - Idées en Vrac/Idées en vrac.pdf",
@@ -182,7 +179,6 @@
     "Migration EVERNOTE/01.1 - Les Ères & Périodes Résumées/02 - Périodes",
     "Migration EVERNOTE/WizeCosm - Old",
     "Migration EVERNOTE/WizeCosm - Main Axes",
-    "Migration EVERNOTE/WizeCosm - MMORPG",
-    "Migration EVERNOTE/Timeline"
+    "Migration EVERNOTE/WizeCosm - MMORPG"
   ]
 }

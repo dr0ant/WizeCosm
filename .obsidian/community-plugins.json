@@ -1,13 +1,4 @@
 [
-  "obsidian-mind-map",
-  "homepage",
-  "obsidian-excalidraw-plugin",
-  "tag-wrangler",
-  "remotely-save",
-  "obsidian-git",
-  "dataview",
   "obsidian-kanban",
-  "obsidian-timelines",
-  "obsidian-tts",
-  "obsidian-regex-replace"
+  "obsidian-tts"
 ]
