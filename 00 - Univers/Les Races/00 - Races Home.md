@@ -1,6 +1,6 @@
 [[Les Elfs]]
 [[Les Fustilisiens]]
 [[Les Hommes]]
-[[Les Nains]]
+[[00 - Univers/Les Races/Les Nains]]
 [[Les Orcs]]
-[[Les Phoséidiens]]
+[[00 - Univers/Les Races/Les Phoséidiens]]

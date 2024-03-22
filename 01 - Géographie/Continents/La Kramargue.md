@@ -1,5 +1,5 @@
 ![[Pasted image 20240114175727.png]]
-La **Kramargue** est le continent le plus riche en ressources minière du monde. Il est principalement peuplé de nains ([[Les Nains]]) et d'orcs ([[Les Orcs]]), ainsi la civilisation est très  **Yamé** ([[Faction Yamé]]).
+La **Kramargue** est le continent le plus riche en ressources minière du monde. Il est principalement peuplé de nains ([[00 - Univers/Les Races/Les Nains]]) et d'orcs ([[Les Orcs]]), ainsi la civilisation est très  **Yamé** ([[Faction Yamé]]).
 
 Ce grand continent est divisé en deux grands pays [[Cristal]] et [[Rariss]], 
 **Cristal** est principalement sous gouvernance naine, c'est dans ce pays que les principales citées naines sont. **Rariss** est sous gouvernance orc, le peuple orc étant nomade néanmoins, les migrations des tribus orc de **Rariss** à **Cristal** sont fréquentes.
