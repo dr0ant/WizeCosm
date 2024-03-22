@@ -1,21 +1,16 @@
 
------------------
-Caractéristiques :
-- 1 Chapitre : 10-16 pages
-- 1 Phase : 1 à 5 chapitres Max
-- 1 Tome : 10 à 25 chapitres
------------------
-Objectif de ces phases :
-- Introduire univers
-- Faire découvrir les héros au lecteur
-- Mettre en place les enjeux
-- Présenter un passé sombre
+[[NARRATIF - Phase 1 - Hank revient de la guerre, fin du cauchemar]]
+[[NARRATIF - Phase 2 - Présentation de Fray et des héros de l'histoire]]
+[[NARRATIF - Phase 3 - La pluie d'étoile]]
+[[NARRATIF - Phase 4 - Préparation du Voyage de Hank]]
 
-[[NARRATIF - Phase 1 - Hank revient de la guerre, fin du cauchemar]] : 1 chapitre
-[[NARRATIF - Phase 2 - Présentation de Fray et des héros de l'histoire]] : 2 chapitres
-[[NARRATIF - Phase 3 - La pluie d'étoile]] 2 chapitres
-[[NARRATIF - Phase 4 - Préparation du Voyage de Hank]] 1 chapitre
 
-Total de 6 chapitres donc entre 60 à 96 pages.
+[[ARC 1 - Le voyage de Hank]]
 
----
+- [[Partie 1 - La traversée]]
+- [[Partie 2 - la découverte des îles]]
+- [[Partie 3 - Rencontre équipages Yamés ¦ Gamé]]
+- [[Partie 4 - Entrée en scène de Plénitude]]
+- [[Partie 5 - Combat au sommet]]
+
+

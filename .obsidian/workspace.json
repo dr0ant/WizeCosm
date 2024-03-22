@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b9b057976811ade8",
+        "id": "25516f8315126b06",
         "type": "tabs",
         "children": [
           {
-            "id": "8883896ae4c44487",
+            "id": "2ac10f8415d7bd21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Arcs/05 - Arc 1/Partie 1 - La traversée.md",
-                "mode": "preview",
+                "file": "04 - Arcs/05 - Arc 1/Partie 2 - la découverte des îles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f205f5f33498400a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c5f8a15da2c76b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Migration EVERNOTE/04 - Les Arcs/ARCS/ARC 1 - Le voyage de Hank.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Arcs/05 - Arc 1/Partie 1 - La traversée.md",
+                "file": "04 - Arcs/05 - Arc 1/Partie 2 - la découverte des îles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Arcs/05 - Arc 1/Partie 1 - La traversée.md",
+                "file": "04 - Arcs/05 - Arc 1/Partie 2 - la découverte des îles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Arcs/05 - Arc 1/Partie 1 - La traversée.md"
+                "file": "04 - Arcs/05 - Arc 1/Partie 2 - la découverte des îles.md"
               }
             }
           }
@@ -147,8 +165,16 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "8883896ae4c44487",
+  "active": "2ac10f8415d7bd21",
   "lastOpenFiles": [
+    "04 - Arcs/04 - Arcs HOME.md",
+    "04 - Arcs/0004 - Arcs HOME.md",
+    "Migration EVERNOTE/04 - Les Arcs/ARCS/ARC 1 - Le voyage de Hank.md",
+    "04 - Arcs/05 - Arc 1/Partie 2 - la découverte des îles.md",
+    "04 - Arcs/05 - Arc 1/Partie 1 - La traversée.md",
+    "04 - Arcs/04 - Phase 4/NARRATIF - Phase 4 - Préparation du Voyage de Hank.md",
+    "04 - Arcs/03 - Phase 3/NARRATIF - Phase 3 - La pluie d'étoile.md",
+    "04 - Arcs/02 - Phase 2/NARRATIF - Phase 2 - Présentation de Fray et des héros de l'histoire.md",
     "00 - Univers/Les Cultes/Le culte de la lumière/Le Culte de la lumière.md",
     "00 - Univers/Les Cultes/Le culte de la lumière/Unholly sacrifice.md",
     "00 - Univers/Les Cultes/Le culte de la lumière/L'armée des flammes.md",
@@ -157,9 +183,6 @@
     "04 - Arcs/05 - Arc 1/Partie 5 - Combat au sommet.md",
     "04 - Arcs/05 - Arc 1/Partie 4 - Entrée en scène de Plénitude.md",
     "04 - Arcs/05 - Arc 1/Partie 3 - Rencontre équipages Yamés ¦ Gamé.md",
-    "04 - Arcs/05 - Arc 1/Partie 2 - la découverte des îles.md",
-    "04 - Arcs/05 - Arc 1/Partie 1 - La traversée.md",
-    "04 - Arcs/04 - Phase 4/NARRATIF - Phase 4 - Préparation du Voyage de Hank.md",
     "04 - Arcs/01 - Phase 1/NARRATIF - Phase 1 - Hank revient de la guerre, fin du cauchemar.md",
     "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S1/Phase 1 scene 1.md",
     "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S2/Phase 1 scene 2.md",
@@ -185,15 +208,10 @@
     "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S7/Phase 1 scene 7.md",
     "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S6/Phase 1 scene 6.md",
     "04 - Arcs/01 - Phase 1/Untitled.md",
-    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S5/Phase 1 scene 5.md",
-    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S4/Phase 1 scene 4.md",
-    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S3/Phase 1 scene 3.md",
     "05 - Assets/Pasted image 20240312191344.png",
     "05 - Assets/Pasted image 20240312190250.png",
-    "04 - Arcs/04 - Arcs HOME.md",
     "04 - Arcs/04 - Phase 4/SCENES - Phase 4",
     "04 - Arcs/03 - Phase 3/SCENES - Phase 3",
-    "04 - Arcs/03 - Phase 3/NARRATIF - Phase 3 - La pluie d'étoile.md",
     "05 - Assets/427980711_368993032703937_5695039846606356235_n.png"
   ]
 }

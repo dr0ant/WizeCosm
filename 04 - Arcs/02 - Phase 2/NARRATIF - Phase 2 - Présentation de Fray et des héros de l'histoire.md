@@ -2,11 +2,11 @@
 
 Après une ellipse de 15 ans, nous retrouvons  [[Hank]] et ses deux fils [[Taneï]] et [[Öko]] qui travaillent à la forge.
 
-Une autre jeune fille fait son apparition [[Jeanne]], c'est une orpheline recueillie par [[Le Culte de la lumière]], comme l'église est toute proche de la forge de Hank et qu'elle a le même âge que Öko et Taneï ils sont devenus très amis.
+Une autre jeune fille fait son apparition [[Jeanne]]. C'est une orpheline recueillie par [[Le Culte de la lumière]]. Comme l'église est toute proche de la forge de Hank et qu'elle a le même âge que Öko et Taneï ils sont devenus très amis.
 
 Jeanne est l'élève studieuse du groupe, Taneï le garçon turbulent et Öko le garçon toujours pensif.
 
-De son côté Hank n'a plus eu à combattre auprès des Cosmers, depuis son retour de la guerre. Avec le temps, les aventures de Cosmers et ses rêves de conquêtes commencent à resurgirent, loin des horreurs de la guerre. Il a passé toute l'enfance de ses deux fils à leur raconter ses exploits d'en temps, mais avait fait le choix de les prioriser tant qu'ils étaient petits.
+De son côté Hank n'a plus eu à combattre auprès des Cosmers depuis son retour de la guerre. Avec le temps, les aventures de Cosmers et ses rêves de conquêtes commencent à resurgirent, loin des horreurs de la guerre. Il a passé toute l'enfance de ses deux fils à leur raconter ses exploits d'en temps, mais avait fait le choix de les prioriser tant qu'ils étaient petit.
 
 Aujourd'hui il vie une vie paisible dans la forge, les commandes de la ville l'amène à confectionner plus d'assiettes que d'épées.
 
@@ -17,12 +17,12 @@ Depuis sa tendre enfance Öko s'était bien rendu compte qu'il était différent
 Heureusement, grâce à son frère Taneï & Hank il ne s'était jamais vraiment senti seul. Grâce aux recherches de Jeanne il avait appris qu'il était **Gamé** ceci expliquait ses aptitudes surnaturelles qu'il tentait de dissimuler le plus possible.
 Néanmoins lorsque qu'il se baladait seul en ville il sentait le regard pesant des habitants.
 
-Jeanne quant à elle était secrètement amoureuse de Öko. Et avec toutes ses recherches à la bibliothèque elle avait sa petite idée d'ou venait Öko, mais ne lui en avait jamais fait part.
+Jeanne quant à elle était secrètement amoureuse de Öko. Et avec toutes ses recherches à la bibliothèque elle avait sa petite idée d'où il venait, mais ne lui en avait jamais fait part.
 
 
 Taneï lui est vraiment le portrait craché de Hank, il travail beaucoup à la forge et s'entraine régulièrement avec un seul objectif en tête : devenir Cosmer. Sa force est déjà à son âge impressionnante. 
 
-Taneï Jeanne et Öko formait un trio inséparable et Hank avait presque adopté cette dernière bien qu'elle vive à l'église qui se trouvait juste en face de la forge.
+Taneï, Jeanne et Öko formaient un trio inséparable et Hank avait presque adopté cette dernière bien qu'elle vive à l'église qui se trouvait juste en face de la forge.
 
 
 
@@ -33,15 +33,15 @@ L'ancien roi de Fray que Hank avait connu venait de rendre l'âme cédant sa pla
 Ce jeune roi avait commandé une arme pour son couronnement.
 Une épée ornementale avec des caractéristiques bien particulières.
 
-Hank n'avait reçu de commande d'épée depuis bien longtemps. Et en lisant les caractéristiques demandées par le roi il pensa que c'était tout bonnement impossible.
+Hank n'avait pas reçu de commande d'épée depuis bien longtemps. Et en lisant les caractéristiques demandées par le roi il pensa que c'était tout bonnement impossible.
 L'épée devrait être :
 - d'un métal blanc éclatant
 - extrêmement solide
 - assez légère
-- sertie de gems de Cosm
+- sertie de gemmes de Cosm
 - bénie par la lumière
 
-Malgré tout son expérience Hank ne connaissait aucun métal blanc qui soit léger ou résistant. Il pensa a demander à Öko si une sorte d'enchantement pourrait solutionner ce problème.
+Malgré toute son expérience Hank ne connaissait aucun métal blanc qui soit léger ou résistant. Il pensa à demander à Öko si une sorte d'enchantement pourrait solutionner ce problème.
 
 Bien que cette commande lui semble irréalisable, l'ennuie des dernières années le poussa à accepter.
 
@@ -62,31 +62,31 @@ quant à lui il ferait des prototypes de design à présenter au roi.
 
 Le trio était très enjoué par ce projet qui mettait un peu de challenge dans leur vie très paisible.
 
-ainsi durant les mois qui suivirent Jeanne étudia sans relâche les livres de la bibliothèque du culte. Une fois qu'elle eu finit de lire tous les ouvrages, elle demanda au [[Père Lumius]] de lui indiquer ou se trouvaient les ouvrages sur les bénédictions sacrées. Ce dernier lui indiqua que ces ouvrages étaient très rares et protégés et qu'ils se trouvaient principalement dans la bibliothèque principale de Fray.
+Ainsi durant les mois qui suivirent Jeanne étudia sans relâche les livres de la bibliothèque du culte. Une fois qu'elle eu finit de lire tous les ouvrages, elle demanda au [[Père Lumius]] de lui indiquer ou se trouvaient les ouvrages sur les bénédictions sacrées. Ce dernier lui indiqua que ces ouvrages étaient très rares et protégés et qu'ils se trouvaient principalement dans la bibliothèque principale de Fray.
 
-Jeanne étant très impliquée depuis sa plus tendre enfance dans le culte de la lumière elle demanda au Père Lumius de lui faire une recommandation pour étudier dans cette bibliothèque.
+Jeanne étant très impliquée depuis sa plus tendre enfance dans le culte de la lumière, elle demanda au Père Lumius de lui faire une recommandation pour étudier dans cette bibliothèque.
 
 Ainsi pour la première fois de sa vie elle parti seule à Fray pour mener à bien ce projet.
 
-Au fur et à mesure de ses recherches Jeanne commençait à se rapprocher d'une section de la bibliothèque qui lui était interdite. Cette section était réservés à des ouvrages qui avaient égarés plus d'un membre du culte.
+Au fur et à mesure de ses recherches Jeanne commençait à se rapprocher d'une section de la bibliothèque qui lui était interdite. Cette section était réservées à des ouvrages qui avaient égarés plus d'un membre du culte.
 
-Malgré qu'elle n'ai pas accès à cette section, plusieurs ouvrages qu'elle avait étudiés faisait mention de sacrements défendus. D'après ces ouvrages la seule personne devant apprendre ces sacrements est le maître du culte pour tester sa foi.
+Malgré qu'elle n'ai pas accès à cette section, plusieurs ouvrages qu'elle avait étudié faisait mention de sacrements défendus. D'après ces ouvrages la seule personne devant apprendre ces sacrements était le maître du culte pour tester sa foi.
 
 Jeanne commençait à passer de plus en plus de temps proche de cette section défendue. Elle en apprenait beaucoup sur les processus de bénédiction, mais aussi sur l'histoire du culte de la lumière. Un jour elle aperçu même l'actuel maître du culte. Elle s'empressa alors du lui poser des questions sur ces ouvrages interdits.
 Elle fit mention d'un ouvrage décrivant le sacrifice d'un des anciens maîtres du culte ayant utilisé la bénédiction "unholly sacrifice". A l'évocation de cette bénédiction le maître du culte blêmit, il expliqua à Jeanne que certaines choses ne devraient être portées que par les épaules du maître du culte.
 Il amena ensuite Jeanne vers la section qui répondrait à ses questions sur la bénédiction d'armes. Jeanne appris alors l'histoire des objets sacrés qui avaient traversés l'histoire. Ces derniers dataient principalement de la période de prospérité entre les deux factions et étaient donc assez ancien.
 
-Elle commença alors à s'exercer auprès des moines de Fray. La tâche était loin d'être aisée tant les processus décrit dans les livres étaient complexes. 
+Elle commença alors à s'exercer auprès des moines de Fray. La tâche était loin d'être aisée tant les processus décrits dans les livres étaient complexes. 
 
 
 
 De son côté Öko, pour mener sa mission à bien savait qu'il devrait étudier aux côtés de Gamés. Or il n'allait pas en trouver à Fray ou dans les alentours. Alors, Hank fit jouer ses contacts dans la cité état de [[Glothäm]] et ainsi Öko intégra une association des Gamés de Glothäm. Grâce à cette association il pourrait étudier dans la cité état en plus d'être logé. 
-C'était la première fois qu'Öko qu'il voyageait aussi loin de chez lui, en arrivant sur place il fi accueilli par un  certain [[Ydris]], d'après son père il était l'un des plus puissant cosmer Gamé que cette terre est connue.
+C'était la première fois pour Öko qu'il voyageait aussi loin de chez lui. En arrivant sur place il fi accueilli par un  certain [[Ydris]], d'après son père il était l'un des plus puissant cosmer Gamé que cette terre est connue.
 Ce dernier lui présenta sa chambre ainsi que les alentours. Il logeait dans une chambre de l'association, dans toutes les autres chambres se trouvaient aussi d'autres Gamés, il pouvait sentir leur énergie de cosm ce qui l'amusait beaucoup.
 
-Ainsi durant les mois qui suivirent, Öko alternait entre Glothäm la semaine et retour à la forge de weekend. Il en appris plus que jamais sur le Cosm, sa manipulation et sa complexité. Il découvrit la différence de Cosm entre les Gamés et les Yamés. D'ailleurs bien que Glothäm soit une ville neutre en terme de faction il pouvait sentir que les population ne se mélangeaient pas.
+Ainsi durant les mois qui suivirent, Öko alternait entre Glothäm la semaine et retour à la forge le weekend. Il en appris plus que jamais sur le Cosm, sa manipulation et sa complexité. Il découvrit la différence de Cosm entre les Gamés et les Yamés. D'ailleurs bien que Glothäm soit une ville neutre en terme de faction il pouvait sentir que les populations ne se mélangeaient pas.
 
-Ses recherches l'amenèrent sur la création de [[La couronne de Glothäm]], cette dernière était l'artefact le plus célèbre. Son pouvoir est simple, cette dernière s'imprègne de cosm de son porteur pour capturer ses souvenirs et ainsi les transmettre à son successeur. Au final l'information cruciale qui aiderai Öko dans sa quête était la notion de flux de Cosm. Ainsi il devrait s'entraîner à imprégner un matériaux d'une énergie de Cosm structurée pour le durcissement puis créer une alimentation de Cosm permanente pour maintenir l'enchantement, ceci serait le rôle des pierres serties, qui se devraient d'être chargées en Cosm.
+Ses recherches l'amenèrent sur la création de [[La couronne de Glothäm]], cette dernière était l'artefact le plus célèbre. Son pouvoir est simple, cette elle s'imprègne de cosm de son porteur pour capturer ses souvenirs et ainsi les transmettre à son successeur. Au final l'information cruciale qui aiderai Öko dans sa quête était la notion de flux de Cosm. Ainsi il devrait s'entraîner à imprégner un matériaux d'une énergie de Cosm structurée pour le durcissement puis créer une alimentation de Cosm permanente pour maintenir l'enchantement, ceci serait le rôle des pierres serties, qui se devraient d'être chargées en Cosm.
 
 C'est ainsi que Öko commença a s'entraîner sans relâche à imprégner toute type de matériaux.
 
