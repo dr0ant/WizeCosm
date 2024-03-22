@@ -1,1 +1,0 @@
-Fullness prend le contrôle des îles émergée => travail de reconquête
