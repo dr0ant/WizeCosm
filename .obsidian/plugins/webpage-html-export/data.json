@@ -14,7 +14,7 @@
   "allowFoldingHeadings": true,
   "allowFoldingLists": true,
   "allowResizingSidebars": true,
-  "logLevel": "warning",
+  "logLevel": "all",
   "minifyHTML": true,
   "makeNamesWebStyle": false,
   "onlyExportModified": true,
