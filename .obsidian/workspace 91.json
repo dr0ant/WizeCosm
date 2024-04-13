@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "47c6caad90a5d9d6",
+    "id": "3fc66cff9686dddf",
     "type": "split",
     "children": [
       {
-        "id": "6650d8a94b4c498b",
+        "id": "1ea3fbac86d283cb",
         "type": "tabs",
         "children": [
           {
-            "id": "85cb62d4590f8e09",
+            "id": "f4b40ac735f4e46e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "e0781617b49bc632",
+        "id": "cee64e9014376fab",
         "type": "tabs",
         "children": [
           {
-            "id": "fdf8a3144f4b92e3",
+            "id": "51ddb0d8fe97aa49",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b94d9800280738e1",
+    "id": "c0743efcdaad5db9",
     "type": "split",
     "children": [
       {
-        "id": "f10a9501eab0ceeb",
+        "id": "2f21f95d43091bd9",
         "type": "tabs",
         "children": [
           {
-            "id": "260940bee3afd5f1",
+            "id": "ab3b099419d56f6c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,12 +61,12 @@
             }
           },
           {
-            "id": "0887e8f2e013872b",
+            "id": "4cbf264aee4527cd",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "palé",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             }
           },
           {
-            "id": "48306ea7356dd07d",
+            "id": "40006f6982932c74",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -87,18 +87,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 300
   },
   "right": {
-    "id": "fe2ed49ffb8870ca",
+    "id": "84d097f0f7f57e0c",
     "type": "split",
     "children": [
       {
-        "id": "e4a0c7abbcf36e11",
+        "id": "e87330de5151728b",
         "type": "tabs",
         "children": [
           {
-            "id": "2d926ab7af5232d7",
+            "id": "bd584997814ce157",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -115,7 +115,7 @@
             }
           },
           {
-            "id": "8c670fae8cece15e",
+            "id": "085b670431e96d0a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -127,7 +127,7 @@
             }
           },
           {
-            "id": "b7c6a7bc49399c6f",
+            "id": "2b5148a409aec136",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "79c8c85b405aa55c",
+            "id": "2da816ab9807a578",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -156,63 +156,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-tts:Text to Speech": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "85cb62d4590f8e09",
+  "active": "f4b40ac735f4e46e",
   "lastOpenFiles": [
     "04 - Arcs/02 - Phase 2/NARRATIF - Phase 2 - Présentation de Fray et des héros de l'histoire.md",
-    "04 - Arcs/02 - Phase 2/Phase 2 - Une contrée en paix.md",
-    "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md",
-    "WizeCosm - MMOPRG/00 - Reserches/GPT's QUESTIONS.md",
-    "WizeCosm - MMOPRG/Core Game Play/The Character/The Character.md",
-    "WizeCosm - MMOPRG/Core Game Play/The Character",
-    "WizeCosm - MMOPRG/HOME - WizeCosm MMORPG.md",
-    "WizeCosm - MMOPRG/00 - Reserches",
-    "WizeCosm - MMOPRG/Side GamePlay",
-    "WizeCosm - MMOPRG/Core Game Play",
-    "04 - Arcs/04 - Arcs HOME.md",
-    "WizeCosm - MMOPRG",
-    "WizeCosm - Home.md",
-    "docs/05 - Assets/IMG_0269.png",
-    "docs/05 - Assets/IMG_0228.png",
-    "docs/05 - Assets/IMG_0225.png",
-    "docs/05 - Assets/IMG_0224.png",
-    "docs/05 - Assets/IMG_0214.png",
-    "docs/05 - Assets/IMG_0205.png",
-    "docs/05 - Assets/IMG_0198.png",
-    "docs/05 - Assets/IMG_0192.png",
-    "docs/05 - Assets/IMG_0166.png",
-    "docs/05 - Assets/IMG_0159.png",
-    "docs/05 - Assets/05 - Asset HOME.html",
-    "docs/05 - Assets",
-    "docs/04 - Arcs/04 - Arcs HOME.html",
-    "docs/04 - Arcs/05 - Arc 1/Partie 5 - Combat au sommet.html",
-    "docs/04 - Arcs/05 - Arc 1/Partie 4 - Entrée en scène de Plénitude.html",
-    "05 - Assets/05 - Asset HOME.md",
-    "04 - Arcs/05 - Arc 1/Partie 5 - Combat au sommet.md",
-    "04 - Arcs/05 - Arc 1/Partie 4 - Entrée en scène de Plénitude.md",
-    "04 - Arcs/05 - Arc 1/Partie 3 - Rencontre équipages Yamés ¦ Gamé.md",
-    "04 - Arcs/05 - Arc 1/Partie 2 - la découverte des îles.md",
-    "04 - Arcs/04 - Phase 4/NARRATIF - Phase 4 - Préparation du Voyage de Hank.md",
-    "04 - Arcs/03 - Phase 3/NARRATIF - Phase 3 - La pluie d'étoile.md",
-    "04 - Arcs/01 - Phase 1/NARRATIF - Phase 1 - Hank revient de la guerre, fin du cauchemar.md",
-    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S6/Phase 1 scene 6.md",
-    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S5/Phase 1 scene 5.md",
-    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S4/CP1S4.md",
-    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S3/CRP1S3.md",
-    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S2/Phase 1 scene 2.md",
-    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S1/Phase 1 scene 1.md",
-    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S1/CRP1S1.md",
-    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S1/CRP1S0.md",
-    "03 - Personnages/Ydris.md",
-    "03 - Personnages/Taneï.md"
+    "04 - Arcs/02 - Phase 2/Phase 2 - Une contrée en paix.md"
   ]
 }
