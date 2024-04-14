@@ -1,6 +1,4 @@
 
-
-
 La pluie battante martelait le sol boueux alors que [[Hank]], guerrier robuste aux haches émoussées, se frayait un chemin à travers l'obscurité. Les éclairs rayaient le ciel, illuminant  son visage marqué par la fatigue et la douleur. Ses pas lourds le menaient vers un  hameau lointain, où les lumières vacillantes semblaient offrir un refuge temporaire contre les tourments extérieurs.
 
 Les éléments déchaînés semblaient refléter l'état intérieur du guerrier. Son visage, autrefois fier et déterminé, était maintenant figé dans une expression de terreur contenue, comme si les horreurs qu'il avait vues ne pouvaient être effacées de sa mémoire. Chaque pas vers le hameau était une lutte, non seulement contre la tempête qui faisait rage, mais aussi contre les démons intérieurs qui le hantaient.
@@ -27,3 +25,6 @@ Déterminé à trouver un nouveau départ, Hank prit la décision de s'éloigner
 Pendant ce temps, dans les coulisses de la société des chevaliers Cosmer, des efforts étaient déployés pour éviter qu'une telle tragédie ne se reproduise. Alors que l'ordre des Cosmers se réorganisait, Hank et ses fils entamaient un nouveau chapitre de leur vie, loin des tumultes de la guerre mais toujours hantés par ses souvenirs indélébiles.
 
 Au loin, la tour d'or blanc de [[Glothäm]] se dressait comme un rappel poignant des épreuves passées, témoignant à la fois de la résilience de ceux qui avaient survécu et des cicatrices invisibles qui marquaient à jamais leur monde.
+
+
+>> SUITE [[Phase 2 - Mia]]  >>

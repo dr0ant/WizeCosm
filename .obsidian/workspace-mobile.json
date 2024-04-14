@@ -11,15 +11,26 @@
             "id": "a0535c12d88e1f6b",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-14 14.49.26.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "e8d7bff0a059ddd6",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md",
+                "file": "Quick notes and Ideas/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md",
+            "file": "Quick notes and Ideas/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md",
+            "file": "Quick notes and Ideas/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md"
+            "file": "Quick notes and Ideas/Untitled.md"
           }
         }
       }
@@ -123,6 +134,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "remotely-save:Remotely Save": false,
       "obsidian-tts:Text to Speech": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -132,8 +145,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0535c12d88e1f6b",
+  "active": "e8d7bff0a059ddd6",
   "lastOpenFiles": [
+    "Quick notes and Ideas/Idée pour ajouter une philosophie au méchant Paléisto.md",
+    "Quick notes and Ideas/Untitled.md",
+    "Excalidraw/Drawing 2024-04-14 14.49.26.excalidraw.md",
+    "04 - Arcs/02 - Phase 2/Phase 2 - Une contrée en paix.md",
+    "Quick notes and Ideas",
+    "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md",
+    "04 - Arcs/02 - Phase 2/NARRATIF - Phase 2 - Présentation de Fray et des héros de l'histoire.md",
     "04 - Arcs/05 - Arc 1/Partie 2 - la découverte des îles.md",
     "WizeCosm - Home.md",
     "Migration EVERNOTE/01.1 - Les Ères & Périodes Résumées/00 - Home Page Ères & Périodes.md",
@@ -161,13 +181,7 @@
     "Migration EVERNOTE/03 - Les Personnages/Fiche Personnage - Pietro.md",
     "Migration EVERNOTE/03 - Les Personnages/Fiche personnage - Riaec.md",
     "Migration EVERNOTE/image.png",
-    "Migration EVERNOTE/03 - Les Personnages/Fiche personnage - Hapotschy \"Hatschy\".md",
-    "06 - Pilote Chap 1/Page 1.md",
-    "Templates/WizeCosm - Kanban.md",
-    "06 - Pilote Chap 1/06 - Pilote Chap 1 - Home.md",
     "05 - Assets/Pasted image 20240130154414.png",
-    "01 - Géographie/Continents/La Kramargue.md",
-    "01 - Géographie/Continents/L'Aldisil.md",
     "01 - Géographie/Capitales",
     "Migration EVERNOTE/Sketch.png",
     "Migration EVERNOTE/Organisation Cosmer.drawio.png",
@@ -178,7 +192,6 @@
     "Migration EVERNOTE/01.1 - Les Ères & Périodes Résumées/01 - Ères",
     "Migration EVERNOTE/01.1 - Les Ères & Périodes Résumées/02 - Périodes",
     "Migration EVERNOTE/WizeCosm - Old",
-    "Migration EVERNOTE/WizeCosm - Main Axes",
-    "Migration EVERNOTE/WizeCosm - MMORPG"
+    "Migration EVERNOTE/WizeCosm - Main Axes"
   ]
 }
