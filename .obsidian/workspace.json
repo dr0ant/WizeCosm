@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md",
+                "file": "04 - Arcs/04 - Arcs HOME.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md",
+                "file": "04 - Arcs/04 - Arcs HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md",
+                "file": "04 - Arcs/04 - Arcs HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md"
+                "file": "04 - Arcs/04 - Arcs HOME.md"
               }
             }
           }
@@ -165,6 +165,7 @@
     "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
     "docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
     "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md",
+    "04 - Arcs/04 - Arcs HOME.md",
     "06 - Pilote Chap 1/Page 1(1)(1).md",
     "06 - Pilote Chap 1/06 - Pilote Chap 1 - Home(1)(1).md",
     "04 - Arcs/02 - Phase 2/Phase 2 - Une contrée en paix.md",
@@ -188,7 +189,6 @@
     "2024-04-14.md",
     "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md",
     "WizeCosm - MMOPRG/00 - Reserches/GPT's QUESTIONS.md",
-    "WizeCosm - MMOPRG/HOME - WizeCosm MMORPG.md",
     "docs/05 - Assets/IMG_0269.png",
     "docs/05 - Assets/IMG_0228.png",
     "docs/05 - Assets/IMG_0225.png",
