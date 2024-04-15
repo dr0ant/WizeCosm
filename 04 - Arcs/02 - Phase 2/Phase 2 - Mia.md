@@ -1,57 +1,55 @@
 
-Quinze années plus tard,
-le soleil se levait lentement sur la petite ville de Fray, baignant les ruelles de sa lumière dorée. À la forge, Hank était déjà à l'œuvre. Taneï, son fils aîné, martelait avec vigueur le métal en fusion, tandis qu'Öko, le cadet, observait avec fascination, absorbé par les flammes dansantes et le ballet des étincelles.
+Quinze années plus tard, le soleil se levait lentement sur la petite ville de Fray, baignant les ruelles de sa lumière dorée. À la forge, Hank était déjà à l'œuvre. Taneï, son fils aîné, martelait le métal chaud avec force. Öko, le cadet, observait avec fascination. Il était absorbé par les flammes dansantes et les étincelles.
 
 Soudain, une voix gaie retentit dans l'atelier. C'était Jeanne, qui arrivait d'un pas léger, son regard brillant de curiosité et d'enthousiasme. "Bien le bonjour messieurs ! Qu'est-ce que vous fabriquez aujourd'hui ?" demanda-t-elle avec un sourire radieux.
 
-Hank se redressa, essuyant la sueur de son front, et lui adressa un sourire chaleureux. "Bonjour, Jeanne ! Aujourd'hui, nous avons une commande spéciale : une série de couteaux de cuisine pour le marché de demain." 
+Hank se redressa, essuyant la sueur de son front, et lui adressa un sourire chaleureux. "Bonjour, Jeanne ! Aujourd'hui, nous avons une commande spéciale : une série de couteaux de cuisine pour le marché de demain."
 
+Pendant que Hank et Taneï reprenaient le travail, Jeanne se joignit à Öko près de la forge. Elle demanda les étapes du processus. Öko était habituellement réservé, mais il se sentait à l'aise avec elle. Il partagea ses connaissances sur la forge avec elle.
 
-Pendant que Hank et Taneï reprenaient leur travail, Jeanne se joignit à Öko près de la forge, posant des questions sur les différentes étapes du processus. Öko, habituellement réservé, se sentait à l'aise en sa compagnie, partageant avec elle ses connaissances sur la forge.
+Finalement, Öko s'étendit davantage sur la beauté des flammes que sur le travail de la forge lui-même.
 
-Au final Öko développa plus sur la beauté des flammes que sur le travail de la forge en soit.
+"Quel poète !" commenta Jeanne avec admiration.
 
-"Quel poète ! " commenta Jeanne avec admiration.
-Öko détourna le regard, rougissant légèrement. 
+Öko détourna le regard, rougissant légèrement.
 
-Pendant ce temps, Taneï forgeait avec une intensité presque animale, ses muscles tendus sous l'effort. Il ne parlait pas beaucoup, mais son travail parlait pour lui. Hank observait son fils avec fierté, voyant en lui le reflet de sa propre détermination.
+Pendant ce temps, Taneï forgeait intensément. Ses muscles étaient tendus d'effort. Il ne parlait pas beaucoup, mais son travail parlait pour lui. Hank observait son fils avec fierté, voyant en lui le reflet de sa propre détermination.
 
-La journée s'écoula ainsi, ponctuée de rires, de conversations animées et du crépitement réconfortant du feu. En fin de journée, alors que le soleil déclinait à l'horizon, le groupe s'assit autour d'un repas simple mais copieux, partageant des histoires et des souvenirs de leur vie.
+La journée s'écoula ainsi, ponctuée de rires, de conversations animées et du crépitement réconfortant du feu. À la fin de la journée, alors que le soleil se couchait, le groupe s'installa autour d'un repas simple mais copieux. Ils partagèrent des histoires et des souvenirs de leur vie.
 
-Dans l'atmosphère tamisée de la forge, Jeanne, le regard perdu dans les souvenirs, évoqua qu'elle considérait Hank comme un second père d'adoption.
+Dans la forge sombre, Jeanne, perdue dans ses souvenirs, dit qu'elle voyait Hank comme un second père adoptif. Ses mots étaient empreints d'émotion alors qu'elle vivait de bons moments en compagnie d'Hank et de ses deux fils.
 
-"Je rêve d'aventure, comme celles que je lis dans les livres du culte . . ." soupira t'elle
+"Je rêve d'aventure, comme celles que je lis dans les livres du culte..." soupira Jeanne.
 
 "Et moi donc !" s'exclama Taneï, "Bientôt je deviendrai un Cosmer et j'affronterai les pires créatures altérées."
 
-À côté d'eux, Öko, le regard souvent perdu dans l'horizon lointain, gardait le silence. Pourtant, derrière son apparente impassibilité, ses yeux brillaient d'une lueur d'espoir et de détermination. Il semblait plongé dans ses pensées, comme s'il cherchait les mots justes pour exprimer ce qu'il ressentait.
+À côté d'eux, Öko, le regard souvent perdu dans l'horizon lointain, gardait le silence. Pourtant, derrière son regard calme, ses yeux brillaient d'espoir et de résolution. Il semblait perdu dans ses pensées. Comme s'il cherchait les mots justes pour exprimer ses sentiments.
 
-Finalement, après un moment de silence, il leva les yeux vers ses compagnons et esquissa un sourire léger étirant ses lèvres.
+Finalement, après un moment de silence, il leva les yeux vers ses compagnons et esquissa un léger sourire. Il étira ses lèvres.
 
-                               * * *
+Le lendemain matin, alors que les premiers rayons du soleil éclairaient la forge de Hank, un tumulte inhabituel commença.
 
+Une délégation du roi de Fray avait fait son apparition, rompant la tranquillité habituelle du hameau. Hank leva les yeux de son enclume. La surprise se lisait sur son visage alors qu'il saluait les messagers royaux.
 
-Le lendemain matin, alors que les premiers rayons du soleil illuminaient la forge de Hank, une agitation inhabituelle se fit sentir.
+Parmi eux se trouvait un visage familier. C'était le visage du nouveau roi de Fray. Hank l'avait connu enfant. Maintenant, il devait prendre la place de son père récemment décédé. La détermination et le charisme du roi transparaissaient dans chaque ligne de son visage. La forge crépitait de tension. Elle semblait refléter l'urgence de la mission que le roi était venu confier à Hank.
 
-Une délégation du roi de Fray avait fait son apparition, rompant la tranquillité habituelle du hameau. Hank leva les yeux de son enclume, une expression de surprise étirant ses traits alors qu'il accueillait les émissaires royaux. 
-Parmi eux se trouvait un visage familier, celui du nouveau roi de Fray, dont la détermination et le charisme se lisaient dans chaque ligne de son visage, Hank l'avait connu enfant, désormais il devait prendre la suite de son père récemment décédé. L'atmosphère électrique qui régnait dans la forge semblait refléter l'urgence de la mission que le roi était venu confier à Hank.
+Une épée, une arme d'une importance capitale pour son couronnement, était la requête pressante. Et pas n'importe quelle épée. Elle devait être d'une qualité et d'une beauté exceptionnelles. Elle devait porter les symboles du pouvoir et de la noblesse du roi de Fray.
 
-Une épée, une arme d'une importance capitale pour son couronnement, était la requête pressante. Et pas n'importe quelle épée, mais une d'une qualité et d'une beauté exceptionnelles, portant en elle les symboles de la puissance et de la noblesse du roi de Fray.
+Le roi exposa ses exigences avec une détermination claire. Hank sentit le poids de la tâche qui lui incombait devenir plus lourd. Énumérer les caractéristiques requises pour l'épée était presque irréel. Elle devait être faite d'un métal blanc brillant, solide mais léger. Le métal devait être orné de gemmes cosmiques et béni par la lumière. Comment pourrait-il répondre à de telles demandes ?
 
-Alors que le roi exposait ses exigences , Hank sentait le poids de la tâche qui lui incombait s'alourdir sur ses épaules. L'énumération des caractéristiques requises pour l'épée - un métal blanc éclatant, solide et pourtant léger, orné de gemmes de Cosm et béni par la lumière elle-même - semblait presque irréelle. Comment pourrait-il répondre à de telles demandes ? 
+Malgré ses doutes quant à la faisabilité d'un tel projet, Hank, avide de challenge, accepta la mission. L'appel à l'aventure était enfoui depuis longtemps sous le poids des responsabilités quotidiennes. Mais, il résonnait de nouveau en lui. Il vibrait dans chaque partie de son être.
 
-Malgré ses doutes sur la faisabilité d'un tel projet, Hank, en manque de challenge accepta la commande. L'appel de l'aventure, longtemps enfoui sous le poids des responsabilités quotidiennes, résonnait à nouveau en lui, vibrant dans chaque fibre de son être. 
+Après le départ de la délégation royale, Hank rassembla Öko, Jeanne et Taneï pour leur exposer le défi qui les attendait.
 
-Après le départ de la délégation royale, Hank rassembla  Öko, Jeanne et Taneï  pour leur exposer le défi qui les attendait.
+Les réactions initiales furent mêlées d'excitation et d'enthousiasme. Pourtant, Hank les ramena rapidement à la réalité. Il dit qu'il n'avait pas encore toutes les réponses sur la manière de mener à bien ce projet. Les spécifications exigées par le roi pour le choix du métal ne correspondaient à aucun matériau connu...
 
-Les réactions initiales furent mêlées d'excitation et d'engouement. Néanmoins très vite Hank les ramena sur terre en évoquant le fait qu'il n'avait pas encore toutes les réponses quant à la marche à suivre pour réaliser ce projet. Les spécifications exigées par le roi pour le choix du métal ne correspondaient à aucun matériau connu . . .
+Jeanne balaya le problème d'un sourire. "Si nous cherchons bien, nous trouverons une solution. Je serai heureuse d'apporter ma lumière à cette épée !"
 
-D'un sourire Jeanne balaya le problème, "En cherchant bien nous trouverons sans doute une solution, je serai ravie d'amener la lumière sur cette épée !"
+Hank regarda par la fenêtre, le soleil éclatant lui caressait le visage.
 
-Hank regarda vers la fenêtre, le soleil éclatant laissait passer un rayon de soleil sur son visage. 
-"Nous allons mener à bien se projet !" s'exclama t'il. "Öko, je vais te charger de nous trouver le moyen d'enchanter l'épée, Jeanne, tu t'occupera de la bénédiction, quant à Taneï et moi nous nous occuperons du minerai et de la confection."
+"Nous mènerons ce projet à bien !" s'exclama-t-il. "Öko, je te charge de trouver un moyen d'enchanter l'épée. Jeanne, tu béniras l'épée. Taneï et moi fournirons le minerai et fabriquerons l'épée."
 
-C'est ainsi que tous commencèrent la tâche qui leur été assignée.
+C'est ainsi que tous commencèrent la tâche qui leur était assignée.
 
                                     * * *                                        
 
@@ -89,7 +87,7 @@ Mais le Maître du Culte était déjà sur elle, sa voix résonnant dans la piè
 
 "Je... J'étudiais les bénédictions d'objets," balbutia-t-elle fébrilement.
 
-"Saches que certaines connaissances ne doivent être portées que sur les épaules du maître du culte . . ." lâcha le vieil homme.
+"Certaines connaissances ne doivent être portées que sur les épaules du maître du culte..." lâcha le vieil homme.
 
 Il poursuivit d'un ton solennel : "Je pense que ce livre répondra à tes questions."
 
@@ -108,10 +106,11 @@ Au cours des mois qui suivirent, Jeanne étudia ce livre sans relâche. Elle rep
 
                                     * * *                                        
 
-Öko, de son côté, devait en apprendre plus sur le Cosm pour mener à bien sa mission. Il entama alors une discussion avec son père sur le sujet,
+Öko, de son côté, devait en apprendre plus sur le Cosm pour mener à bien sa mission. Il comprit qu'à Fray, son apprentissage serait limité. Ainsi, il évoqua à Hank la possibilité de se rendre à Glothäm pour étudier.
+
 "Öko, mon garçon, tu as beaucoup appris ici à Fray. Mais, je sais que tu n'apprendras pas plus sur le Cosm Gamé ici," commença Hank.
 
-Öko, assis en face de son père, acquiesça timidement. "C'est vrai . . . Je me sens comme limité ici. Jeanne m'a parlé de Glothäm comme d'une ville neutre où vivent beaucoup de Gamés."
+Öko, assis en face de son père, acquiesça timidement. "Oui, père. Je sens que je n'atteindrai pas mon plein potentiel ici. Jeanne m'a parlé de Glothäm comme d'une ville neutre où vivent beaucoup de Gamés."
 
 Hank, posant une main rassurante sur l'épaule de son fils, sourit avec bienveillance. "Je comprends, Öko. Et tu sais quoi ? Je pense que je pourrais avoir une solution pour toi."
 
@@ -121,31 +120,31 @@ Hank parla avec un sourire espiègle, "J'ai quelques contacts à Glothäm, des a
 
 Les yeux d'Öko s'illuminèrent. Hank hocha la tête avec conviction, il savait que son fils était sérieux et avide de mieux connaître ses pouvoirs.
 
-Öko serra son poing avec résolution. "Je le serai, père."
+Öko serre son poing avec résolution. "Je le serai, père. Je suis prêt à faire tout ce qu'il faut pour réussir."
 
 Hank sourit avec fierté. "C'est mon garçon ! J'enverrai demain une missive à mes contacts."
 
-Ce soir-là, Hank écrit une lettre à un homme nommé Bhaus. Il demandait à Bhaus d'accueillir son fils dans la cité-état et de lui trouver un mentor en étude du Cosm. Il attacha la missive à la patte d'un corbeau avant de le laisser s'envoler dans la pénombre. Öko observa secrètement cette scène qui représentait tant pour lui.
+Ce soir-là, Hank écrit une lettre à un homme nommé Bhaus. Il demande à Bhaus d'accueillir son fils dans la cité-état et de lui trouver un mentor en Cosm. Il attacha la missive à la patte d'un corbeau avant de le laisser s'envoler dans la pénombre. Öko observa secrètement cette scène qui représentait tant pour lui.
 
-Öko fut très ému lorsqu'il reçut la réponse de Bhaus, l'ami de son père à Glothäm. Il avait été accepté dans une association, une association de la cité-état. Cela lui offrait un accès privilégié à l'apprentissage du Cosm parmi les Gamés.
+Öko était très ému lorsqu'il reçut la réponse de Bhaus, l'ami de son père à Glothäm. Il avait été accepté dans les Gamés, une association de la cité-état. Cela lui offrait un accès privilégié à l'apprentissage du Cosm.
 
 Le jour de son départ pour Glothäm, il regarda vers Fray comme s'il tournait une page. C'était la première fois qu'il allait être séparé de son père et de son frère dans une contrée inconnue.
 
-Il regarda attentivement le chemin. Il remarqua chaque coin et chaque animal qu'il voyait. Tout était nouveau. Une fois arrivé à Glothäm, Öko fut chaleureusement accueilli par un Elfe imposant du nom de Ydris. Il émanait de lui une aura de puissance de Cosm qu'Öko pouvait sentir très distinctement. Ydris le guida à travers les ruelles animées de la cité jusqu'à son logement au sein de l'association des Gamés. Öko fut impressionné par l'atmosphère animée parmi les autres membres de l'association. Il n'avait jamais ressenti autant de Cosm à Fray.
+Il regarda attentivement le chemin. Il remarqua chaque coin et chaque animal qu'il voyait. Tout était nouveau. Une fois arrivé à Glothäm, Öko fut chaleureusement accueilli par un Elfe imposant du nom de Ydris. Il émanait de lui une aura de puissance de Cosm qu'Öko pouvait sentir très distinctement. Ydris le guida à travers les ruelles animées de la cité-état jusqu'à son logement au sein de l'association des Gamés. Öko fut impressionné par l'atmosphère animée parmi les autres membres de l'association. Il n'avait jamais ressenti autant de Cosm à Fray.
 
 Les premiers jours furent un véritable tourbillon d'apprentissage pour Öko. Il assista à des conférences. Il participa à des sessions de méditation. Il vit d'impressionnantes démonstrations de manipulation du Cosm. Il comprit rapidement la distinction entre le Cosm Gamé et le Cosm Yamé, deux synthétisations très opposées.
 
-Mais ce qui captiva le plus Öko, ce fut l'étude de la Couronne de Glothäm, une relique emblématique. Cette dernière avait fasciné les Gamés depuis des générations. La Couronne était plus qu'un simple artefact. C'était un vaisseau de souvenirs. Elle pouvait transmettre les connaissances et les expériences de ses anciens porteurs. Cette révélation renforça sa détermination à maîtriser le Cosm et à découvrir sa propre pratique.
+Mais ce qui captiva le plus Öko, ce fut l'étude de la Couronne de Glothäm, une relique emblématique de Glothäm. Cette dernière avait fasciné les Gamés depuis des générations. La Couronne était plus qu'un simple artefact. C'était un vaisseau de souvenirs. Elle pouvait transmettre les connaissances et les expériences de ses anciens porteurs. Cette révélation renforça sa détermination à maîtriser le Cosm et à découvrir sa propre pratique.
 
-Avec un zèle renouvelé, Öko se plongea dans son entraînement. Il essaya différentes façons d'infuser des matériaux avec de l'énergie de Cosm. Il améliora sa capacité à le canaliser. Il étudia l'utilisation de pierres chargées pour maintenir les enchantements. Chaque jour apportait son lot de défis et de découvertes, mais Öko persévérait avec une détermination sans faille.
+Avec un zèle renouvelé, Öko se plongea dans son entraînement. Il essaya différentes façons d'infuser des matériaux avec de l'énergie cosmique. Il améliora sa capacité à canaliser le Cosm. Il étudia l'utilisation de pierres chargées pour maintenir les enchantements. Chaque jour apportait son lot de défis et de découvertes, mais Öko persévérait avec une détermination sans faille.
 
 Parallèlement à ses recherches, Öko se découvrit lui-même. Il avait toujours eu la capacité de manipuler le Cosm des créatures. Mais, il réalisa aussi qu'il pouvait rappeler la structure Cosm de ces créatures. En apprenant, il était souvent entouré de projections de ses créatures apprivoisées. Elles venaient de Fray. Cela impressionnait ses colocataires.
 
 Lors de ses temps de repos, Öko aimait se balader autour de la ville, là où la nature avait plus de place.
-Éclairé par la pleine lune, il traversait la dense forêt qui l'entourait. C'est alors qu'il tomba sur un groupe de trois sangliers aux yeux rouges injectés de sang. Ni une ni deux, ces derniers lui foncèrent dessus. Il eut juste le temps d'esquiver mais se retrouva au sol couvert de boue. En se relevant, les sangliers s'apprêtaient à charger de nouveau. Öko leur fit face en restant immobile. Ils fondaient droit sur lui. Il concentra toute sa force pour arrêter leur Cosm. C'était la première fois qu'il faisait face à des créatures altérées par le Cosm. Il en avait entendu parler dans les histoires de son père. Mais, grâce à ses récentes études, le terme "altéré" avait maintenant du sens. Le Cosm de ces créatures était dénaturé et instable.
-Finalement, les sangliers s'arrêtèrent net juste avant de le toucher, avant de s'effondrer au sol. Öko prit le temps d'étudier les corps des animaux. Leurs lèvres étaient bleues et sentaient mauvais. Il comprit rapidement que cette nourriture avait provoqué leur état. Il leur rinça la bouche avec de l'eau qu'il avait récolté juste à côté. En chemin, Öko trouva des champignons bleus phosphorescents. Ils émettent un peu d'énergie de Cosm. C'était très surprenant. Il en ramassa autant que possible. Puis, il piétina les derniers. À son retour près des sangliers, ces derniers commençaient à émerger de leur transe. Öko posa sa main sur chacun d'eux pour leur transmettre une petite part de son énergie. Immédiatement, ils perdirent toute agressivité et se montrèrent reconnaissants. Öko passa quelques minutes à les caresser avant de retourner vers la ville. 
 
-De a Fray, il raconta à son père ce qui s'était passé. Hank écouta attentivement, fier de voir son fils si courageux et compatissant envers les animaux.
+Éclairé par la pleine lune, il traversait la dense forêt qui l'entourait. C'est alors qu'il tomba sur un groupe de trois sangliers aux yeux rouges injectés de sang. Ni une ni deux, ces derniers lui foncèrent dessus. Il eut juste le temps d'esquiver mais se retrouva au sol couvert de boue. En se relevant, les sangliers s'apprêtaient à charger de nouveau. Öko leur fit face en restant immobile. Ils fondaient droit sur lui. Il concentra toute sa force pour arrêter leur Cosm. C'était la première fois qu'il faisait face à des créatures altérées par le Cosm. Il en avait entendu parler dans les histoires de son père. Mais, grâce à ses récentes études, le terme "altéré" avait maintenant du sens. Le Cosm de ces créatures était dénaturé et instable. Finalement, les sangliers s'arrêtèrent net juste avant de le toucher, avant de s'effondrer au sol. Öko prit le temps d'étudier les corps des animaux. Leurs lèvres étaient bleues et sentaient mauvais. Il comprit rapidement que cette nourriture avait provoqué leur maladie. Il leur rinça la bouche avec de l'eau qu'il avait récoltée juste à côté. En chemin, Öko trouve des champignons bleus phosphorescents. Ils émettent un peu d'énergie Cosmique. C'est très surprenant. Il en ramassa autant que possible. Puis, il piétina les derniers. À son retour près des sangliers, ces derniers commençaient à émerger de leur transe. Öko posa sa main sur chacun d'eux pour leur transmettre une petite part de son énergie Cosmique. Immédiatement, ils perdirent toute agressivité et se montrèrent reconnaissants. Öko passa quelques minutes à les caresser avant de retourner vers la ville.
+
+De retour a Fray, il raconta à son père ce qui s'était passé. Hank écouta attentivement, fier de voir son fils si courageux et compatissant envers les animaux.
 
 Les jours suivants, Öko reprit ses études a Glothäm avec encore plus de détermination. Il passait aussi beaucoup de temps à explorer les bois autour de la ville, découvrant de nouveaux phénomènes et collectant des échantillons pour ses recherches.
 
@@ -206,6 +205,8 @@ Taneï rit joyeusement. "Et toi, père, tu es toujours aussi habile."
 
 Il leur fallut quelques semaines pour récolter suffisamment de minerai. Lorsqu'ils revinrent à la forge, ils le purifièrent. Cela leur permit de fabriquer deux lingots. Chaque lingot pesant deux kilos.
 
+                                    * * *   
+
 C'est ainsi qu'un mois avant la date de livraison, Hank, Öko, Taneï et Jeanne furent tous les quatre réunis à la forge. Ce projet les avait conduits à explorer les profondeurs du monde. Il avait révélé une maturité croissante et une force cachée en chacun d'eux.
 
 Forts de leur expérience acquise, ils se lancèrent dans la fabrication de l'épée. Hank avait conçu un moule spécifique pour la lame de cette commande. Ils firent fondre le métal d'un des deux lingots dans le moule, puis Taneï se mit à battre le fer chaud. Mais, ce minerai était beaucoup plus dur que le fer ordinaire. Cela rendait le raffinage de la lame long et difficile.
@@ -232,12 +233,12 @@ Ainsi, d'une voix empreinte de dévotion, elle entama la bénédiction, invoquan
 
 Lorsqu'elle eut terminé son incantation, une aura lumineuse entoura l'épée. Elle aveugla les quatre héros présents. C'était la bénédiction solennelle accordée à l'arme.
 
-Le travail de ces si longs mois avait finalement porté ses fruits, résultant en une épée qui marquerait l'histoire . . . La lame était enfin prête.
+Le travail de ces si longs mois avait finalement porté ses fruits, résultant en une épée qui marquerait l'histoire . . . 
 
 "Il est temps de lui donner un nom", déclara Hank d'une voix grave.
 
 "Je propose que cette épée soit nommée Mia", dit-il d'une voix empreinte d'émotion. "C'est en souvenir de celle qui a illuminé ma vie de son amour et de sa gentillesse."
 
-Le silence qui suivit était empreint de respect et de solennité. Chaque personne comprenait l'importance de l'hommage. Le trio hocha la tête d'un commun accord.
+Le silence qui suivit était empreint de respect et de solennité. Chaque personne comprenait l'importance de l'hommage.
 
-Ainsi, Mia fut baptisée comme une arme forgée dans le feu. C'était aussi un hommage à l'amour et au souvenir de quelqu'un de cher à leurs cœurs.
+Ainsi, Mia fut baptisée comme une arme forgée dans le feu. C'était aussi un hommage à l'amour et au souvenir de quelqu'un de cher au cœur de Hank
