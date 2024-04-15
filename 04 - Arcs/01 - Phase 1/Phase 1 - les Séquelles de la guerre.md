@@ -19,7 +19,7 @@ Dans les jours qui suivirent, la vie revenait dans le village de Fray. Hank erra
 
 Hank était déterminé à trouver un nouveau départ. Ainsi, il décida de quitter Fray et de déménager dans une vieille forge à la périphérie de la ville. Il espérait y trouver la paix intérieure. Il cherchait à reconstruire sa vie parmi les flammes vacillantes et le martèlement régulier de l'enclume.
 
-Pendant ce temps, en coulisses à la Société des Chevaliers du Cosmere, ils travaillaient pour empêcher que cela ne se reproduise. L'ordre du Cosmer se réorganisa. Hank et ses fils commencèrent un nouveau chapitre de leur vie. Ils étaient loin de la guerre, mais toujours hantés par ses souvenirs indélébiles.
+Pendant ce temps, en coulisses, les Cosmers  travaillaient pour empêcher que cela ne se reproduise. L'ordre des Cosmers se réorganisa. Hank et ses fils commencèrent un nouveau chapitre de leur vie. Ils étaient loin de la guerre, mais toujours hantés par ses souvenirs indélébiles.
 
 Au loin, la tour blanc-or de Glothäm se dressait comme un rappel poignant des épreuves passées. Elle montrait la résilience de ceux qui avaient survécu et les cicatrices invisibles sur leur monde.
 
