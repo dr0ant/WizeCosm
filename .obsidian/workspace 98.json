@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "24c38647b3a14e78",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1d36fb76784aa83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab31433fa17b33d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WizeCosm - Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5c1485bc2d1f27b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ccfe0dfd5b70c48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Arcs/02 - Phase 2/NARRATIF - Phase 2 - Présentation de Fray et des héros de l'histoire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f734dabc8a779dfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f6cf5aab041abeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f2a8a13de518e28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22ba429e88bccb26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d5b277350bc62f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 461.5
+  },
+  "right": {
+    "id": "842cfa7cff3665ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "3abc1a80eff4356d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf095c04f90f2ed3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WizeCosm - Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d607f509cf70f93",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WizeCosm - Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0762a39588f5623b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5e8a31c08e99dda1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WizeCosm - Home.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-tts:Text to Speech": false,
+      "remotely-save:Remotely Save": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "ab31433fa17b33d0",
+  "lastOpenFiles": [
+    "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md",
+    "04 - Arcs/04 - Arcs HOME.md",
+    "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md",
+    "07 - Migration EVERNOTE/03 - Les Personnages/Fiche personnage - Hapotschy _Hatschy.md",
+    "04 - Arcs/02 - Phase 2/NARRATIF - Phase 2 - Présentation de Fray et des héros de l'histoire.md",
+    "Quick notes and Ideas/Untitled.md",
+    "Quick notes and Ideas/Idée pour ajouter une philosophie au méchant Paléisto.md",
+    "Quick notes and Ideas",
+    "Helron.md",
+    "06 - Pilote Chap 1/Page 1(1)(1).md",
+    "06 - Pilote Chap 1/06 - Pilote Chap 1 - Home(1)(1).md",
+    "07 - Migration EVERNOTE/03 - Les Personnages/Fiche personnage - Hapotschy _Hatschy_(1).md",
+    "Excalidraw/Drawing 2024-04-14 14.49.26.excalidraw.md",
+    "Excalidraw",
+    "04 - Arcs/04 - Phase 4/NARRATIF - Phase 4 - Préparation du Voyage de Hank.md"
+  ]
+}
