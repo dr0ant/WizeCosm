@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md",
+                "file": "WizeCosm - Git Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md",
+                "file": "WizeCosm - Git Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md"
+                "file": "WizeCosm - Git Index.md"
               }
             }
           }
@@ -163,7 +163,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "975a7ffec6c9b757",
+  "floating": {
+    "id": "f8e153d582b1c212",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e353cb23705e247b",
+        "type": "window",
+        "children": [
+          {
+            "id": "3c524df4dc255273",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bcd48bb3743bef6f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "WizeCosm - Git Index.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 317,
+        "y": 420,
+        "width": 902,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "bcd48bb3743bef6f",
   "lastOpenFiles": [
     "04 - Arcs/04 - Arcs HOME.md",
     "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md",
