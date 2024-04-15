@@ -5,7 +5,7 @@ Les éléments déchaînés semblaient refléter l'état intérieur du guerrier.
 
 Hank poussa la porte du hameau avec la force de son désir désespéré de paix. Il entra dans la chaleur et la douce lumière à l'intérieur. Pour un instant, il espéra que tout ce qu'il avait vécu n'était qu'un cauchemar, mais la réalité cruelle le rattrapa rapidement. Les souvenirs d'une guerre impitoyable et d'une bataille sanglante qui avaient déchiré des vies et des familles étaient trop réels pour être ignorés.
 
-Il était autrefois loué comme l'un des plus grands chevaliers du Cosmer. Mais, maintenant, il n'était qu'un homme brisé. Il retira lentement son armure, laissant tomber chaque pièce avec un poids symbolique. Il s'effondra devant le feu. Les flammes dansaient comme des esprits apaisants. Il laissa échapper un sanglot étouffé, libérant la tristesse qu'il avait retenue si longtemps.
+Il était autrefois loué comme l'un des plus grands chevaliers Cosmer. Mais, maintenant, il n'était qu'un homme brisé. Il retira lentement son armure, laissant tomber chaque pièce avec un poids symbolique. Il s'effondra devant le feu. Les flammes dansaient comme des esprits apaisants. Il laissa échapper un sanglot étouffé, libérant la tristesse qu'il avait retenue si longtemps.
 
 Face aux escaliers menant à l'étage supérieur, les images de visages aimés perdus dans le tourbillon de la guerre lui revinrent en mémoire. Sa femme, Mia, avait un sourire rayonnant qui hantait ses nuits. Son fidèle ami, Alix.I, était mort courageusement dans un acte final pour mettre fin aux atrocités. Et puis il y avait les milliers d'autres. Ils étaient ses compagnons de combat, ses frères d'armes. Leurs visages flottaient comme des fantômes dans les méandres de sa mémoire.
 
