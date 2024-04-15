@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "b6e5025447034bc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "396f21c9de054a12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "956b1b38aa5c960b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbd0a41ad9b2314d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5faa1041aa44fb25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "022463f3132a54c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5efcc2b3d27979ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4788c4c865e7b89",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bddf892726989be7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cbef084900bb656",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b6428de54d48e05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17aaee60dd58aa3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fbb8e425dccd77d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6cc08fb3907da6b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-tts:Text to Speech": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "022463f3132a54c7",
+  "lastOpenFiles": [
+    "docs/index.html",
+    "docs/lib/metadata.json",
+    "docs/lib/media/874d8b8e340f75575caa.svg",
+    "docs/lib/media",
+    "WizeCosm - Git Index.md",
+    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "docs/lib/fonts/05b618077343fbbd92b7.ttf",
+    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "docs/lib/fonts/454577c22304619db035.ttf",
+    "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
+    "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
+    "04 - Arcs/04 - Arcs HOME.md",
+    "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md",
+    "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md"
+  ]
+}
