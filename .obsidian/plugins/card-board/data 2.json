@@ -1,0 +1,73 @@
+{
+  "version": "0.10.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "TODO",
+              "displayTitle": "TODO"
+            },
+            {
+              "tag": "INPROGRESS",
+              "displayTitle": "INPROGRESS"
+            },
+            {
+              "tag": "DONE",
+              "displayTitle": "DONE"
+            }
+          ],
+          "showColumnTags": true,
+          "completedCount": 10,
+          "filters": [
+            {
+              "tag": "fileFilter",
+              "data": "00 - Univers/Les Races/Les Fustilisiens.md"
+            },
+            {
+              "tag": "fileFilter",
+              "data": "00 - Univers/Les Races/00 - Races Home.md"
+            },
+            {
+              "tag": "fileFilter",
+              "data": "00 - Univers/Les Races/Les Elfs.md"
+            },
+            {
+              "tag": "fileFilter",
+              "data": "00 - Univers/Les Races/Les Hommes.md"
+            },
+            {
+              "tag": "pathFilter",
+              "data": "00 - Univers"
+            }
+          ],
+          "filterPolarity": "Allow",
+          "filterScope": "Both",
+          "showFilteredTags": true,
+          "includeOthers": true,
+          "includeUntagged": true,
+          "title": "WizeCosm To Do",
+          "collapsedColumns": [
+            0,
+            1
+          ]
+        }
+      }
+    ],
+    "globalSettings": {
+      "taskCompletionFormat": "ObsidianCardBoard",
+      "columnNames": {
+        "today": "",
+        "tomorrow": "",
+        "future": "",
+        "undated": "",
+        "others": "",
+        "untagged": "",
+        "completed": ""
+      },
+      "ignoreFileNameDates": false
+    }
+  }
+}
