@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f3a3584b4c42e4e4",
+        "id": "270fa77ea0f46d03",
         "type": "tabs",
         "children": [
           {
-            "id": "975a7ffec6c9b757",
+            "id": "7cd79d775789bb0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Pilote Chap 1/Page 1.md",
+                "file": "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 610.5
+    "width": 233.5
   },
   "right": {
     "id": "fe2ed49ffb8870ca",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Pilote Chap 1/Page 1.md",
+                "file": "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Pilote Chap 1/Page 1.md",
+                "file": "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Pilote Chap 1/Page 1.md"
+                "file": "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md"
               }
             }
           }
@@ -150,10 +150,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "975a7ffec6c9b757",
+  "active": "7cd79d775789bb0d",
   "lastOpenFiles": [
-    "06 - Pilote Chap 1/Page 1(1).md",
     "06 - Pilote Chap 1/Page 1.md",
+    "06 - Pilote Chap 1/Page 1(1).md",
     "06 - Pilote Chap 1/Page 1(1)(2).md",
     "00 - Univers/00 - Univers HOME.md",
     "06 - Pilote Chap 1/06 - Pilote Chap 1 - Home(1).md",
