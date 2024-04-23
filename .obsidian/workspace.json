@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e11736d56bd87022",
+        "id": "2356ef3ccd5e23bf",
         "type": "tabs",
         "children": [
           {
-            "id": "95a85cf98e21c2d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "737e368306fdbe10",
+            "id": "1780d389f2508315",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +148,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "737e368306fdbe10",
+  "active": "1780d389f2508315",
   "lastOpenFiles": [
     "docs/index.html",
     "docs/lib/metadata.json",
