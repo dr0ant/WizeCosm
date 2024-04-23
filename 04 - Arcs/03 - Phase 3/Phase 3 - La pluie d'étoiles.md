@@ -38,7 +38,7 @@ Hank prit les devants, organisant rapidement leurs efforts pour aider les habita
 La nuit passa dans un tourbillon d'activité et d'incertitude. Au petit matin, les nouvelles alarmantes d'un tsunami dévastateur qui avait frappé les côtes voisines parvinrent jusqu'à eux, leur faisant prendre conscience de l'ampleur de l'évènement. 
 
 
-								* * *
+									* * *
 
 Pendant ce temps, dans les cercles politiques de Glothäm, la réunion d'urgence du conseil battait son plein. Les dirigeants des différentes factions se disputaient, chacun cherchant à rejeter la faute sur l'autre pour le désastre qui avait frappé les côtes.
 
@@ -57,7 +57,7 @@ Des créatures hostiles attaquaient tous les navires, les explorateurs n'iraient
 
 À Glothäm, la nouvelle de cette découverte suscita une agitation fiévreuse. Les dirigeants des factions s'affairaient à rassembler les ressources nécessaires pour former des équipages prêts à affronter l'inconnu. Mais les récents tsunamis avaient laissé une flotte en lambeaux, rendant la tâche d'autant plus ardue.
 
-								* * *
+									* * *
 
 Hank avait reçu une nouvelle missive du roi de Fray, le sommant de se présenter à Glothäm pour préparer une mission d'exploration de la zone d'agitation. L'idée d'une nouvelle aventure le remplissait d'une excitation qu'il n'avait pas ressentie depuis des années.
 
