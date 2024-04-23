@@ -1,8 +1,8 @@
 {
   "defaultVoice": "speechSynthesis-com.apple.voice.compact.fr-FR.Thomas",
-  "pitch": 1,
+  "pitch": 0.6,
   "rate": 1,
-  "volume": 1,
+  "volume": 0.78,
   "speakLinks": false,
   "speakFrontmatter": false,
   "speakSyntax": false,

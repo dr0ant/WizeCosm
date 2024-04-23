@@ -1,57 +1,52 @@
 {
   "main": {
-    "id": "47c6caad90a5d9d6",
+    "id": "8f5ff9aec7a1df5c",
     "type": "split",
     "children": [
       {
-        "id": "270fa77ea0f46d03",
+        "id": "e11736d56bd87022",
         "type": "tabs",
         "children": [
           {
-            "id": "7cd79d775789bb0d",
+            "id": "95a85cf98e21c2d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Arcs/03 - Phase 3/Phase 3 - La pluie d'étoiles.md",
+                "file": "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "737e368306fdbe10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Arcs/04 - Arcs HOME.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "adc3618bdf9b784d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bf0355f0129fa4f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Arcs/03 - Phase 3/NARRATIF - Phase 3 - La pluie d'étoile.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b94d9800280738e1",
+    "id": "e6750f628f163b89",
     "type": "split",
     "children": [
       {
-        "id": "f10a9501eab0ceeb",
+        "id": "a7fdbe3a36815feb",
         "type": "tabs",
         "children": [
           {
-            "id": "260940bee3afd5f1",
+            "id": "511a2c1493a1f281",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,12 +56,12 @@
             }
           },
           {
-            "id": "0887e8f2e013872b",
+            "id": "a9b7c78dd687761d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"2\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +71,7 @@
             }
           },
           {
-            "id": "48306ea7356dd07d",
+            "id": "322621fc7f53d1a7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -87,23 +82,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "fe2ed49ffb8870ca",
+    "id": "9ac26c3f8e89bf53",
     "type": "split",
     "children": [
       {
-        "id": "e4a0c7abbcf36e11",
+        "id": "e0ccf929535e92dc",
         "type": "tabs",
         "children": [
           {
-            "id": "2d926ab7af5232d7",
+            "id": "457c4a69b9a9e72c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Arcs/03 - Phase 3/Phase 3 - La pluie d'étoiles.md",
+                "file": "04 - Arcs/04 - Arcs HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,19 +110,19 @@
             }
           },
           {
-            "id": "8c670fae8cece15e",
+            "id": "42c13ca4803d56f1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Arcs/03 - Phase 3/Phase 3 - La pluie d'étoiles.md",
+                "file": "04 - Arcs/04 - Arcs HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b7c6a7bc49399c6f",
+            "id": "4c380c57bdc64017",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,12 +133,12 @@
             }
           },
           {
-            "id": "79c8c85b405aa55c",
+            "id": "357d40d7ed261848",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Arcs/03 - Phase 3/Phase 3 - La pluie d'étoiles.md"
+                "file": "04 - Arcs/04 - Arcs HOME.md"
               }
             }
           }
@@ -156,65 +151,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-tts:Text to Speech": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "remotely-save:Remotely Save": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7cd79d775789bb0d",
+  "active": "737e368306fdbe10",
   "lastOpenFiles": [
-    "04 - Arcs/03 - Phase 3/NARRATIF - Phase 3 - La pluie d'étoile.md",
-    "04 - Arcs/03 - Phase 3/Phase 3 - La pluie d'étoiles.md",
-    "04 - Arcs/04 - Arcs HOME.md",
-    "04 - Arcs/04 - Arcs HOME 2.md",
-    "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md",
-    "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md",
-    "06 - Pilote Chap 1/Page 1(1).md",
-    "06 - Pilote Chap 1/06 - Pilote Chap 1 - Home(1)(1)(1).md",
-    "06 - Pilote Chap 1/Page 1(1)(2).md",
-    "06 - Pilote Chap 1/Page 1(1)(1).md",
-    "06 - Pilote Chap 1/06 - Pilote Chap 1 - Home(1).md",
-    "06 - Pilote Chap 1/06 - Pilote Chap 1 - Home(1)(1).md",
-    "06 - Pilote Chap 1/Page 1.md",
-    "00 - Univers/00 - Univers HOME.md",
-    "00 - Univers/Les Cosmers/Cosmer 2.md",
-    "00 - Univers/Les Cosmers/Main Land Cosm 2.md",
-    "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre 2.md",
-    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S1/Phase 1 scene 1 2.md",
-    "07 - Migration EVERNOTE/05 - La Map & Le monde (Géo)/Pays/Pays - Daratieth 2.md",
-    "07 - Migration EVERNOTE/04 - Les Arcs/Phases/Phase 10 - Découvertes & révélations sur le l'histoire & vengeance de Paléisto 2.md",
-    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S2/Phase 1 scene 3.md",
-    "07 - Migration EVERNOTE/05 - La Map & Le monde (Géo)/Pays/Pays - Cité Etat de  Glotäm 2.md",
-    "07 - Migration EVERNOTE/05 - La Map & Le monde (Géo)/Pays/Pays - Atrieth 2.md",
-    "07 - Migration EVERNOTE/05 - La Map & Le monde (Géo)/Pays/Pays - Arieth 2.md",
-    "07 - Migration EVERNOTE/01.1 - Les Ères & Périodes Résumées/02 - Périodes/Période  Création de l'ordre des chevaliers Cosmer 2.md",
-    "07 - Migration EVERNOTE/01.1 - Les Ères & Périodes Résumées/02 - Périodes/Période  Période de prospérité entre les peuples 2.md",
-    "07 - Migration EVERNOTE/01 - Idées en Vrac/Idées en vrac 2.pdf",
-    "07 - Migration EVERNOTE/IMG_0089 2.png",
-    "07 - Migration EVERNOTE/Evernote Snapshot 20200814 195308.png",
-    "07 - Migration EVERNOTE/IMG_9907 2.jpg",
-    "05 - Assets/IMG_0224 2.png",
-    "05 - Assets/IMG_0114 2.png",
-    "07 - Migration EVERNOTE/IMG_3279 2.png",
-    "05 - Assets/IMG_7848 2.png",
-    "05 - Assets/IMG_0063 2.png",
-    "05 - Assets/Capture d’écran 2023-09-10 à 12.05.30 2.png",
-    "07 - Migration EVERNOTE/IMG_0099 2.png",
-    "05 - Assets/IMG_2686 2.heic",
-    "docs/index 2.html",
-    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "docs/index.html",
     "docs/lib/metadata.json",
+    "docs/lib/media/874d8b8e340f75575caa.svg",
+    "docs/lib/media",
     "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "docs/lib/fonts/94f2f163d4b698242fef.otf",
-    "docs/lib/fonts/454577c22304619db035.ttf"
+    "docs/lib/fonts/05b618077343fbbd92b7.ttf",
+    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "docs/lib/fonts/454577c22304619db035.ttf",
+    "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
+    "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
+    "WizeCosm - Git Index.md",
+    "04 - Arcs/04 - Arcs HOME.md",
+    "04 - Arcs/03 - Phase 3/Phase 3 - La pluie d'étoiles.md",
+    "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md",
+    "WizeCosm - Home.md",
+    "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md"
   ]
 }

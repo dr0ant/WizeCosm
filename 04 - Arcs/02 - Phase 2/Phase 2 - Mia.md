@@ -110,7 +110,7 @@ Au cours des mois qui suivirent, Jeanne étudia ce livre sans relâche. Elle rep
 
 Öko, de son côté, devait en apprendre plus sur le Cosm pour mener à bien sa mission. 
 Une discussion s'entama alors avec Hank.
-"Öko, mon garçon, tu as beaucoup appris ici à Fray. Mais, je sais que tu n'apprendras pas plus sur le Cosm Gamé ici," commença Hank.
+"Öko, mon garçon, tu as beaucoup appris ici à Fray. Mais, je sais que tu n'apprendras pas plus sur le Cosm Gamé ici," commença le forgeron.
 
 Öko, assis en face de son père, acquiesça timidement. "Oui, je me sens comme restreint ici. Jeanne m'a parlé de Glothäm comme d'une ville neutre où vivent beaucoup de Gamés."
 
@@ -122,17 +122,17 @@ Hank parla avec un sourire espiègle, "J'ai quelques contacts à Glothäm, des a
 
 Les yeux d'Öko s'illuminèrent. Hank hocha la tête avec conviction, il savait que son fils était sérieux et avide de mieux connaître ses pouvoirs.
 
-Öko serre son poing avec résolution. "Je le serai, père."
+Öko serra son poing avec résolution. "Je le serai, père."
 
 Hank sourit avec fierté. "C'est mon garçon ! J'enverrai demain une missive à mes contacts."
 
 Ce soir-là, Hank écrit une lettre à un homme nommé Bhaus. Il demande à Bhaus d'accueillir son fils dans la cité-état et de lui trouver un mentor en Cosm. Il attacha la missive à la patte d'un corbeau avant de le laisser s'envoler dans la pénombre. Öko observa secrètement cette scène qui représentait tant pour lui.
 
-Öko était très ému lorsqu'il reçut la réponse de Bhaus, l'ami de son père à Glothäm. Il avait été accepté dans une association de la cité-état. Cela lui offrait un accès privilégié à l'apprentissage du Cosm.
+Lorsqu'il reçut la réponse de Bhaus, l'ami de son père à Glothäm Öko fu très ému. Il avait été accepté dans une association de la cité-état. Cela lui offrait un accès privilégié à l'apprentissage du Cosm.
 
 Le jour de son départ pour Glothäm, il regarda vers Fray comme s'il tournait une page. C'était la première fois qu'il allait être séparé de son père et de son frère dans une contrée inconnue.
 
-Il regarda attentivement le chemin. Il remarqua chaque coin et chaque animal qu'il voyait. Tout était nouveau. Une fois arrivé à Glothäm, Öko fut chaleureusement accueilli par un Elfe imposant du nom de Ydris. Il émanait de lui une aura de puissance de Cosm qu'Öko pouvait sentir très distinctement. Ydris le guida à travers les ruelles animées de la cité-état jusqu'à son logement au sein de l'association des Gamés. Öko fut impressionné par l'atmosphère animée parmi les autres membres de l'association. Il n'avait jamais ressenti autant de Cosm à Fray.
+Il regarda attentivement le chemin. Il remarqua chaque coin et chaque animal qu'il voyait. Tout était nouveau. Une fois arrivé à Glothäm, il fut chaleureusement accueilli par un Elfe imposant du nom de Ydris. Il émanait de lui une aura de puissance de Cosm qu'Öko pouvait sentir très distinctement. Ydris le guida à travers les ruelles animées de la cité-état jusqu'à son logement au sein de l'association des Gamés. Öko fut impressionné par l'atmosphère animée parmi les autres membres de l'association. Il n'avait jamais ressenti autant de Cosm à Fray.
 
 Les premiers jours furent un véritable tourbillon d'apprentissage pour Öko. Il assista à des conférences. Il participa à des sessions de méditation. Il vit d'impressionnantes démonstrations de manipulation du Cosm. Il comprit rapidement la distinction entre le Cosm Gamé et le Cosm Yamé, deux synthétisations très opposées.
 
@@ -140,17 +140,17 @@ Mais ce qui captiva le plus Öko, ce fut l'étude de la Couronne de Glothäm, un
 
 Avec un zèle renouvelé, Öko se plongea dans son entraînement. Il essaya différentes façons d'infuser des matériaux avec de l'énergie de Cosm. Il améliora sa capacité à canaliser le Cosm. Il étudia l'utilisation de pierres chargées pour maintenir les enchantements. Chaque jour apportait son lot de défis et de découvertes, mais Öko persévérait avec une détermination sans faille.
 
-Parallèlement à ses recherches, Öko se découvrit lui-même. Il avait toujours eu la capacité de manipuler le Cosm des créatures. Mais, il réalisa aussi qu'il pouvait rappeler la structure Cosm de ces même créatures. En apprenant, il était souvent entouré de projections de ses créatures apprivoisées. Elles venaient de Fray. Cela impressionnait ses colocataires.
+Parallèlement à ses recherches, il se découvrit lui-même. Il avait toujours eu la capacité de manipuler le Cosm des créatures. Mais, il réalisa aussi qu'il pouvait rappeler la structure de Cosm de ces même créatures. En apprenant, il était souvent entouré de projections de ses créatures apprivoisées. Elles venaient de Fray. Cela impressionnait ses colocataires.
 
 Lors de ses temps de repos, Öko aimait se balader autour de la ville, là où la nature avait plus de place.
 
-Éclairé par la pleine lune, il traversait la dense forêt qui l'entourait. C'est alors qu'il tomba sur un groupe de trois sangliers aux yeux rouges injectés de sang. Ni une ni deux, ces derniers lui foncèrent dessus. Il eut juste le temps d'esquiver mais se retrouva au sol couvert de boue. En se relevant, les sangliers s'apprêtaient à charger de nouveau. Öko leur fit face en restant immobile. Ils fondaient droit sur lui. Il concentra toute sa force pour arrêter leur Cosm. C'était la première fois qu'il faisait face à des créatures altérées par le Cosm. Il en avait entendu parler dans les histoires de son père. Mais, grâce à ses récentes études, le terme "altéré" avait maintenant du sens. Le Cosm de ces créatures était dénaturé et instable. Finalement, les sangliers s'arrêtèrent net juste avant de le toucher, avant de s'effondrer au sol. Öko prit le temps d'étudier les corps des animaux. Leurs lèvres étaient bleues et sentaient mauvais. Il comprit rapidement que cette nourriture avait provoqué leur état. Il leur rinça la bouche avec de l'eau qu'il avait récoltée juste à côté. En chemin, Öko trouva des champignons bleus phosphorescents. Ils émettent un peu d'énergie Cosmique. C'est très surprenant. Il en ramassa autant que possible. Puis, il piétina les derniers. À son retour près des sangliers, ces derniers commençaient à émerger de leur transe. Öko posa sa main sur chacun d'eux pour leur transmettre une petite part de son énergie de Cosm. Immédiatement, ils perdirent toute agressivité et se montrèrent reconnaissants. Öko passa quelques minutes à les caresser avant de retourner vers la ville.
+Une nuit, éclairé par la pleine lune, il traversait la dense forêt qui l'entourait. C'est alors qu'il tomba sur un groupe de trois sangliers aux yeux rouges injectés de sang. Ni une ni deux, ces derniers lui foncèrent dessus. Il eut juste le temps d'esquiver mais se retrouva au sol couvert de boue. En se relevant, les sangliers s'apprêtaient à charger de nouveau. Öko leur fit face en restant immobile. Ils fondaient droit sur lui. Il concentra toute sa force pour arrêter leur Cosm. C'était la première fois qu'il faisait face à des créatures altérées. Il en avait entendu parler dans les histoires de son père. Mais, grâce à ses récentes études, le terme "altéré" avait maintenant du sens. Le Cosm de ces créatures était dénaturé et instable. Finalement, les sangliers s'arrêtèrent net juste avant de le toucher, avant de s'effondrer au sol. Öko prit le temps d'étudier les corps des animaux. Leurs lèvres étaient bleues et sentaient mauvais. Il comprit rapidement qu'un certaine nourriture avait provoqué leur état. Il leur rinça la bouche avec de l'eau qu'il avait récoltée juste à côté. En chemin, Öko trouva des champignons bleus phosphorescents. Ils émettaient un peu d'énergie de Cosm. C'était très surprenant. Il en ramassa autant que possible. Puis, il piétina les derniers. À son retour près des sangliers, ces derniers commençaient à émerger de leur transe. Öko posa sa main sur chacun d'eux pour leur transmettre une petite part de son énergie. Immédiatement, ils perdirent toute agressivité et se montrèrent reconnaissants. Öko passa quelques minutes à les caresser avant de retourner vers la ville.
 
-De retour a Fray, il raconta à son père ce qui s'était passé. Hank écouta attentivement, fier de voir son fils si courageux et compatissant envers les animaux.
+De retour a Fray, il raconta ce qui s'était passé. Son père écouta attentivement, fier de voir son fils si courageux et compatissant envers les animaux.
 
 Les jours suivants, Öko reprit ses études à Glothäm avec encore plus de détermination. Il passait aussi beaucoup de temps à explorer les bois autour de la ville, découvrant de nouveaux phénomènes et collectant des échantillons pour ses recherches.
 
-La vie reprenait son cours normal pour Öko, mais chaque escapade en forêt le ramenait à ses pouvoir et sa connexion toute particulière avec les créatures de ce monde.
+La vie reprenait son cours normal, mais chaque escapade en forêt ramenait Öko à ses pouvoir et sa connexion toute particulière avec les créatures de ce monde.
 
                                     * * *   
 
@@ -161,7 +161,7 @@ Malgré leur expertise, le minerai blanc demandé par le roi restait hors de leu
 
 Ils décidèrent alors de se lancer dans une expédition. Avec leur équipement de forge sur les épaules, ils quittèrent l'atelier. Ils s'aventurèrent dans les mines sinueuses à proximité. Ils étaient déterminés à trouver la clé de leur puzzle.
 
-Le long de la rivière Jah, Hank et Taneï commencèrent leur quête. Le paysage défilait. Il mêlait des falaises abruptes à la verdure luxuriante des vallées. 
+Le long de la rivière Jah, Ils commencèrent leur quête. Le paysage défilait. Il mêlait des falaises abruptes à la verdure luxuriante des vallées. 
 
 Dans les mines sombres et humides, ils parcouraient les tunnels étroits. Ils recherchaient le minerai précieux. Leurs torches éclairaient les parois de pierre. Elles révélaient des reflets métalliques qui nourrissaient leur espoir. Cependant, chaque éclat de roche examiné ne faisait que renforcer leur frustration.
 
@@ -179,7 +179,7 @@ Le silence s'installa entre eux. Il n'était brisé que par le crépitement du f
 
 À travers les flammes dansantes, Taneï pouvait voir les ombres de son passé se dessiner sur le visage de son père. Il posa une main réconfortante sur son épaule. "Peut-être que le chemin vers la gloire n'est pas toujours celui que l'on imagine . . ."
 
-Les paroles de son fils résonnèrent dans l'obscurité. Cela faisait longtemps que Hank avait renoncé à la gloire qui lui manquait tant. Les flammes dansaient joyeusement autour du feu de camp. Taneï observait attentivement les poissons qui grillaient. Il fut surpris de voir que les écailles de certains poissons devenaient blanches sous la chaleur. Une idée lui traversa l'esprit : Et si la couleur de ces écailles correspondait à celle du minerai ?
+Les paroles de son fils résonnèrent dans l'obscurité. Cela faisait longtemps que Hank avait renoncé à la gloire qui lui manquait tant. Les flammes dansaient joyeusement autour du feu. Taneï observait attentivement les poissons qui grillaient. Il fut surpris de voir que les écailles de certains poissons devenaient blanches sous la chaleur. Une idée lui traversa l'esprit : Et si la couleur de ces écailles correspondait à celle du minerai ?
 
 Après un examen plus attentif, Taneï se rendit compte que seuls certains poissons avaient ces écailles. Il s'agissait d'anguilles abyssales. Mais, il découvrit qu'il ne s'agissait pas d'écailles. Il s'agissait de débris minéraux. Les débris étaient attirés par la charge électrique naturelle du poisson. C'était de la poussière de minerai !
 
@@ -187,7 +187,7 @@ Excités par cette découverte, Hank et Taneï examinèrent de près ce minerai 
 
 Hank vit rapidement le potentiel de cette découverte. Mais, il vit aussi les dangers qu'elle représentait. Une telle ressource pourrait bouleverser l'équilibre fragile du monde et déclencher des conflits.
 
-C'est pourquoi, après une longue réflexion, il prit une décision difficile. Il demanda à Taneï de garder cette découverte secrète, entre eux deux. Car parfois, la plus grande sagesse réside dans la retenue, même face à la tentation de la gloire.
+C'est pourquoi, après une longue réflexion, il prit une décision difficile. Il demanda à Taneï de garder cette information secrète, entre eux deux. Car parfois, la plus grande sagesse réside dans la retenue, même face à la tentation de la gloire.
 
 Le lendemain matin, Ils se lancèrent dans une compétition amicale. Ils partirent à la pêche, non pas pour du poisson cette fois, mais pour collecter la précieuse poussière minérale. Les deux hommes se retrouvèrent au bord de la rivière, équipés de leurs filets et de leurs seaux. Les reflets de l'aube dansaient sur les eaux calmes, créant un spectacle enchanteur.
 
@@ -199,7 +199,7 @@ Pendant des heures, ils s'affrontés dans un concours tout sauf silencieux. Ils 
 
 Au fur et à mesure que le soleil se levait, leurs seaux se remplissaient lentement de poudre minérale scintillante. Chaque particule représentait un pas de plus vers la réalisation de leur objectif commun.
 
-À la fin de la journée, lorsque les derniers rayons du soleil touchèrent l'eau, Hank et Taneï se retrouvèrent sur la rive. Ils comptaient soigneusement leur récolte. Un sourire satisfait se dessina sur leur visage. Ils réalisèrent qu'ils avaient bien travaillé ensemble.
+À la fin de la journée, lorsque les derniers rayons du soleil touchèrent l'eau, Hank et Taneï se retrouvèrent sur la rive. Ils comptaient soigneusement leur récolte. Un sourire satisfait se dessina sur leur visage. Ils réalisèrent qu'ils avaient finalement travaillé ensemble.
 
 "Eh bien, mon fils, je dois admettre que tu es un adversaire redoutable", déclara Hank dégoulinant de sueur.
 
@@ -229,7 +229,7 @@ Le granit sur lequel reposait la lame se fissura sous le choc. Il envoya des éc
 
 Puis, Jeanne se saisit de l'épée avec respect, sentant le poids de son importance dans ses mains. Elle se dirigea vers l'extérieur, guidée par l'éclat du soleil qui illuminait la forge. Lorsque le premier rayon de soleil toucha la lame, elle brilla d'une luminosité éblouissante. Elle fit pétiller les yeux de tous les spectateurs.
 
-Avec une main experte, Jeanne commença à graver avec un diamant trempé dans le Cosm. Elle écrivit la devise sacrée du culte de la lumière : "Après l'obscurité vient la lumière." Chaque coup de ciseau était solennel et respectueux. Ils gravaient dans le métal son profond attachement à la lumière de la connaissance.
+Avec une main experte, Jeanne commença à graver avec un diamant trempé dans le Cosm. Elle écrivit la devise sacrée du culte : "Après l'obscurité vient la lumière." Chaque coup de ciseau était solennel et respectueux. Ils gravaient dans le métal son profond attachement à la lumière de la connaissance.
 
 Ainsi, d'une voix empreinte de dévotion, elle entama la bénédiction, invoquant les grâces du soleil sur la lame. Les mots emplirent l'air de puissance et de sainteté. Les reflets du soleil sur l'épée s'intensifièrent.
 
@@ -244,3 +244,6 @@ Le travail de ces si longs mois avait finalement porté ses fruits, résultant e
 Le silence qui suivit était empreint de respect et de solennité. Chaque personne comprenait l'importance de l'hommage.
 
 Ainsi, Mia fut baptisée comme une arme forgée dans le feu. C'était aussi un hommage à l'amour et au souvenir de quelqu'un de cher au cœur de Hank
+
+
+>> SUITE [[Phase 3 - La pluie d'étoiles]]
