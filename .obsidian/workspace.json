@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9ac26c3f8e89bf53",
@@ -150,26 +150,28 @@
   },
   "active": "1780d389f2508315",
   "lastOpenFiles": [
-    "docs/index.html",
-    "docs/lib/metadata.json",
+    "docs/04 - Arcs/03 - Phase 3/Phase 3 - La pluie d'étoiles.html",
+    "docs/04 - Arcs/04 - Phase 4/Phase 4 - L'équipage.html",
+    "docs/04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.html",
+    "docs/04 - Arcs/02 - Phase 2/Phase 2 - Mia.html",
+    "docs/04 - Arcs/03 - Phase 3",
+    "docs/04 - Arcs/04 - Phase 4",
+    "docs/04 - Arcs/04 - Arcs HOME.html",
+    "docs/04 - Arcs/01 - Phase 1",
+    "docs/04 - Arcs/02 - Phase 2",
+    "docs/04 - Arcs",
     "docs/lib/media/874d8b8e340f75575caa.svg",
-    "docs/lib/media",
-    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "docs/lib/fonts/05b618077343fbbd92b7.ttf",
-    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "docs/lib/fonts/454577c22304619db035.ttf",
-    "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
-    "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
     "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
     "WizeCosm - Git Index.md",
     "04 - Arcs/04 - Arcs HOME.md",
+    "04 - Arcs/04 - Phase 4/Phase 4 - L'équipage.md",
     "04 - Arcs/03 - Phase 3/Phase 3 - La pluie d'étoiles.md",
-    "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md",
     "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md",
+    "04 - Arcs/04 - Phase 4/NARRATIF - Phase 4 - Préparation du Voyage de Hank.md",
+    "docs/lib/media/874d8b8e340f75575caa 2.svg",
+    "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md",
     "WizeCosm - Home.md",
     "Helron.md",
-    "04 - Arcs/03 - Phase 3/NARRATIF - Phase 3 - La pluie d'étoile.md",
-    "04 - Arcs/04 - Phase 4/NARRATIF - Phase 4 - Préparation du Voyage de Hank.md"
+    "04 - Arcs/03 - Phase 3/NARRATIF - Phase 3 - La pluie d'étoile.md"
   ]
 }

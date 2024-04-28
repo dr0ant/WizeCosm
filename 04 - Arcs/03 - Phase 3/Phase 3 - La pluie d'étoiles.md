@@ -73,3 +73,7 @@ Les dirigeants Yamé acquiescèrent. Ils lui accordèrent une confiance totale p
 
 Hank quitta la salle du conseil satisfait, prêt à tout pour mener à bien sa mission. 
 Il se voyait déjà dépoussiérer ses vielles haches. Néanmoins une telle tâche demandait de recruter un équipage et de trouver un navire pour la traversée. Hank avait donc un tout nouvel objectif : constituer son équipage pour la mission.
+
+
+ 
+>> SUITE [[Phase 4 - L'équipage]]
