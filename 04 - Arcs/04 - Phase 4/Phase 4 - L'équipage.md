@@ -41,3 +41,6 @@ Entre les heures de labeur, les membres de l'équipage trouvaient le temps de fa
 
 Hank prit la décision de faire un détour par Fray avant le départ. Antha venait d'arriver et lui avait fait par des dernière nouvelles de Glothäm.
 Il voulait voir une dernière fois ses enfants, pour leur expliquer les raisons de son absence. La perspective de les revoir remplissait son cœur, mais il savait que le temps était compté et que bientôt il devrait se résoudre à dire au revoir pour un certain temps.
+
+
+>> SUITE ARC 1 : Le voyage de Hank : [[Partie 1 - La traversée]]
