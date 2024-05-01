@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Arcs/04 - Phase 4/Phase 4 - L'équipage.md",
+                "file": "04 - Arcs/05 - Arc 1/PART 01/Partie 1 - La traversée.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 292.5
   },
   "right": {
     "id": "9ac26c3f8e89bf53",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Arcs/04 - Phase 4/Phase 4 - L'équipage.md",
+                "file": "04 - Arcs/05 - Arc 1/PART 01/Partie 1 - La traversée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Arcs/04 - Phase 4/Phase 4 - L'équipage.md",
+                "file": "04 - Arcs/05 - Arc 1/PART 01/Partie 1 - La traversée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Arcs/04 - Phase 4/Phase 4 - L'équipage.md"
+                "file": "04 - Arcs/05 - Arc 1/PART 01/Partie 1 - La traversée.md"
               }
             }
           }
@@ -151,25 +151,25 @@
   "active": "105a1a5db5a347fe",
   "lastOpenFiles": [
     "docs/lib/metadata.json",
-    "docs/lib/media/874d8b8e340f75575caa.svg",
-    "docs/lib/media",
-    "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
-    "docs/lib/fonts/94f2f163d4b698242fef.otf",
-    "docs/lib/fonts/72505e6a122c6acd5471.woff2",
-    "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
-    "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
-    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "docs/WizeCosm - Git Index.html",
+    "docs/04 - Arcs/05 - Arc 1/PART 01/Partie 1 - La traversée.html",
     "WizeCosm - Git Index.md",
+    "docs/04 - Arcs/05 - Arc 1/PART 01",
+    "docs/04 - Arcs/04 - Phase 4/Phase 4 - L'équipage.html",
+    "docs/04 - Arcs/03 - Phase 3/Phase 3 - La pluie d'étoiles.html",
+    "docs/04 - Arcs/02 - Phase 2/Phase 2 - Mia.html",
+    "docs/04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.html",
+    "docs/04 - Arcs/05 - Arc 1",
+    "docs/04 - Arcs/04 - Phase 4",
+    "docs/04 - Arcs/04 - Arcs HOME.html",
+    "docs/lib/media/874d8b8e340f75575caa.svg",
     "04 - Arcs/04 - Arcs HOME.md",
     "04 - Arcs/05 - Arc 1/PART 01/Partie 1 - La traversée.md",
     "04 - Arcs/04 - Phase 4/Phase 4 - L'équipage.md",
     "04 - Arcs/03 - Phase 3/Phase 3 - La pluie d'étoiles.md",
     "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md",
-    "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md",
     "04 - Arcs/05 - Arc 1/PART 01/Narratif - Partie 1 - La traversée.md",
+    "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md",
     "05 - Assets/427980711_368993032703937_5695039846606356235_n.png",
     "04 - Arcs/04 - Phase 4/NARRATIF - Phase 4 - Préparation du Voyage de Hank.md",
     "WizeCosm - MMOPRG/HOME - WizeCosm MMORPG.md",
