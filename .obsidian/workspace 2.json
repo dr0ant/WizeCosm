@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "205047fe25cbb50b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2192602a01131e48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d44181738e0bdc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Géographie/Continents/00 - Home Continent.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ae9e6b7b58d4f1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "78dbbba6e26a4035",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "608cc1e1ae996ced",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97c45e91e8fcae1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "179642c0672e031b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1b5d62877316f19",
+    "type": "split",
+    "children": [
+      {
+        "id": "eab8903100144fa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfa63ab8b141003f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Géographie/Continents/00 - Home Continent.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ac67ee8e7a7ce53",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Géographie/Continents/00 - Home Continent.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97093779d146eeac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "68062f580fc63645",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - Géographie/Continents/00 - Home Continent.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-tts:Text to Speech": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "publish:Publier les modifications": false,
+      "remotely-save:Remotely Save": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "8d44181738e0bdc8",
+  "lastOpenFiles": [
+    "01 - Géographie/01 - Géographie HOME.md",
+    "WizeCosm - Home.md",
+    "Migration EVERNOTE/03.1 - Les Races/Les Elfs.md",
+    "00 - Univers/Les Races/Les Elfs.md",
+    "Templates/WizeCosm - Kanban.md",
+    "Templates/Untitled Kanban.md",
+    "Templates",
+    "Sans titre",
+    "note 1.md",
+    "Sans titre.md",
+    "00 - Univers/Les Races/Les Orcs.md",
+    "00 - Univers/Les Races/00 - Races Home.md",
+    "00 - Univers/Les Races/Les Fustilisiens.md",
+    "00 - Univers/Les Races/Les Nains.md",
+    "00 - Univers/Les Races/Les Hommes.md",
+    "00 - Univers/Les Races/Les Phoséidiens.md",
+    "Migration EVERNOTE/Le conflit Yamé Gamé/Conflit Yamé-Gamé.md",
+    "05 - Assets/yamegame conflits.pdf",
+    "Migration EVERNOTE/WizeCosm - MMORPG/WizeCosm a multigameplay, cross plateform game.md",
+    "Migration EVERNOTE/WizeCosm - MMORPG/WizeCosm - MMO - Core Axes.md",
+    "Migration EVERNOTE/WizeCosm - MMORPG/Story Line.md",
+    "05 - Assets/Carte Wizcosm Informatisé - Copie.png",
+    "05 - Assets/image 5.png",
+    "05 - Assets/image 4.png",
+    "05 - Assets/image 3.png",
+    "Migration EVERNOTE/WizeCosm - MMORPG/Idées en vrac - MMORPG.md",
+    "05 - Assets/Snapshot 1.jpg",
+    "Migration EVERNOTE/Timeline/Chronologie 2020 1rst try.md",
+    "05 - Assets/IMG_2013.jpg",
+    "Migration EVERNOTE/L’univers Magie & Artéfact Monstres et créature Manifestation du Cosm/Les armes et artéfactes.md",
+    "05 - Assets/Evernote Snapshot 20180630 232608.png",
+    "Migration EVERNOTE/Deux Factions Yamé & Gamé/Les factions.md",
+    "05 - Assets/Evernote Snapshot 20180702 004905.png",
+    "Migration EVERNOTE/09 - Les Artéfacts/Pierre légendaire 6 - la griffe rose.md",
+    "05 - Assets/IMG_0408.png",
+    "Migration EVERNOTE/09 - Les Artéfacts/Pierre légendaire 5 - le sablier figé.md",
+    "05 - Assets/IMG_0406.png",
+    "Migration EVERNOTE/09 - Les Artéfacts/Pierre légendaire 4 - La lune sans nom.md",
+    "Migration EVERNOTE/09 - Les Artéfacts/Pierre légendaire 3 - La goutte d’infini.md",
+    "Migration EVERNOTE/09 - Les Artéfacts",
+    "05 - Assets/IMG_2686 1.heic",
+    "05 - Assets/IMG_2686.heic",
+    "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Capitales",
+    "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Pays",
+    "Migration EVERNOTE/05 - La Map & Le monde (Géo)/Continents",
+    "05 - Assets/Universe_board.pdf"
+  ]
+}

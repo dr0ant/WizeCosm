@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "aa52fcdeb463842b",
+    "type": "split",
+    "children": [
+      {
+        "id": "544472c3d73bfd83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04fc0b3924f3de54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Arcs/02 - Phase 2/NARRATIF - Phase 2 - Présentation de Fray et des héros de l'histoire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "797eab072c526f66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Arcs/02 - Phase 2/Phase 2 - Une contrée en paix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b78200533d33392",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e5e04105860d485",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "501a46e3c7b884e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33611cbaaa3e8a99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5d055682be927fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78ef29a27ad0336b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9df0285aa006371",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86d696c57a544b26",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04 - Arcs/02 - Phase 2/Phase 2 - Une contrée en paix.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9d1e9e4e74f26e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "04 - Arcs/02 - Phase 2/Phase 2 - Une contrée en paix.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad8e27fd27aa57c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ef93f850a0bb8c26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04 - Arcs/02 - Phase 2/Phase 2 - Une contrée en paix.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-tts:Text to Speech": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "797eab072c526f66",
+  "lastOpenFiles": [
+    "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md",
+    "04 - Arcs/02 - Phase 2/Phase 2 - Une contrée en paix.md",
+    "04 - Arcs/02 - Phase 2/NARRATIF - Phase 2 - Présentation de Fray et des héros de l'histoire.md",
+    "docs/05 - Assets/Carte Wizcosm Informatisé - Copie.png",
+    "docs/05 - Assets/Pasted image 20240312191344.png",
+    "docs/05 - Assets/yamegame conflits.pdf",
+    "docs/05 - Assets/IMG_0588.png",
+    "docs/01 - Géographie/Continents/L'Amarthie.html",
+    "docs/01 - Géographie/Continents/La Kritia.html",
+    "docs/05 - Assets/IMG_0063.png",
+    "docs/05 - Assets/IMG_0097.png",
+    "docs/05 - Assets/427980711_368993032703937_5695039846606356235_n.png",
+    "docs/05 - Assets/IMG_0157.png",
+    "docs/05 - Assets/IMG_0374.png",
+    "docs/01 - Géographie/Continents/L'Aldisil.html",
+    "docs/05 - Assets/IMG_0155.png",
+    "docs/05 - Assets/IMG_0159.png",
+    "docs/01 - Géographie/Continents/La Kramargue.html",
+    "docs/02 - TimeLine/02 - TimeLine Home.html",
+    "docs/04 - Arcs/05 - Arc 1/Partie 1 - La traversée.html",
+    "docs/00 - Univers/Les Races/Les Elfs.html",
+    "docs/000 - Core Axes/Plot twist.html",
+    "docs/00 - Univers/Les Races/Les Phoséidiens.html",
+    "07 - Migration EVERNOTE/03 - Les Personnages/Fiche Personnage - Anne.md",
+    "07 - Migration EVERNOTE/03 - Les Personnages/Fiche Personnage - Prêtre Flageol.md",
+    "07 - Migration EVERNOTE/04 - Les Arcs/ARCS/ARC 4 - Retour en Îles émergées.md",
+    "07 - Migration EVERNOTE/04 - Les Arcs/ARCS/ARC 3 - Croisades & Noirceur.md",
+    "07 - Migration EVERNOTE/04 - Les Arcs/ARCS/ARC 6 - Levée de l'armée des mort et guerre finale.md",
+    "07 - Migration EVERNOTE/04 - Les Arcs/ARCS/ARC 5 - L'alliance Yamé-Gamé.md",
+    "07 - Migration EVERNOTE/04 - Les Arcs/ARCS/ARC 1 - Le voyage de Hank.md",
+    "07 - Migration EVERNOTE/04 - Les Arcs/ARCS/ARC 2 - Le Tournois des Cosmers.md",
+    "07 - Migration EVERNOTE/04.05 - Backstories/BackStory - Tella & Bhaus.md",
+    "07 - Migration EVERNOTE/03 - Les Personnages/Fiche personnage - Trittan.md",
+    "07 - Migration EVERNOTE/03 - Les Personnages/Fiche personnage - Safiya.md",
+    "07 - Migration EVERNOTE/04 - Les Arcs/Phases/Phase 1 - Hank revient de la guerre, fin du cauchemar.md",
+    "07 - Migration EVERNOTE/01.1 - Les Ères & Périodes Résumées/02 - Périodes/Période  La désignation des 6 gardiens des pierres légendaires.md",
+    "07 - Migration EVERNOTE/01.1 - Les Ères & Périodes Résumées/02 - Périodes/Période  Conflit géopolitique Yamé Gamé.md",
+    "07 - Migration EVERNOTE/01.1 - Les Ères & Périodes Résumées/02 - Périodes/Période  Première génération présentant du Cosm.md",
+    "07 - Migration EVERNOTE/01.1 - Les Ères & Périodes Résumées/02 - Périodes/Période  Remontée vers la lumière du soleil.md",
+    "07 - Migration EVERNOTE/01.1 - Les Ères & Périodes Résumées/02 - Périodes/Période  Création de l'ordre des chevaliers Cosmer.md",
+    "07 - Migration EVERNOTE/01.1 - Les Ères & Périodes Résumées/02 - Périodes/Période  Accumulation de Cosm et montée en puissance des mercenaires.md",
+    "07 - Migration EVERNOTE/01.1 - Les Ères & Périodes Résumées/02 - Périodes/Période  Génération des aveugles.md",
+    "07 - Migration EVERNOTE/01.1 - Les Ères & Périodes Résumées/02 - Périodes/Période  Oublie des gardiens.md",
+    "07 - Migration EVERNOTE/01.1 - Les Ères & Périodes Résumées/02 - Périodes/Période  Civilisation Gardiens centrée.md",
+    "07 - Migration EVERNOTE/01.1 - Les Ères & Périodes Résumées/02 - Périodes/Période  Conception des 6 pierres légendaires.md",
+    "07 - Migration EVERNOTE/01.1 - Les Ères & Périodes Résumées/02 - Périodes/Période  L'Éveil du Vikthan Ancestral.md"
+  ]
+}

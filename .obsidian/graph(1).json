@@ -1,0 +1,100 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"07 - Migration EVERNOTE\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2078293
+      }
+    },
+    {
+      "query": "path:\"04 - Arcs\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 663895
+      }
+    },
+    {
+      "query": "path:\"000 - Core Axes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13566466
+      }
+    },
+    {
+      "query": "path:\"00 - Univers\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 894681
+      }
+    },
+    {
+      "query": "path:\"01 - Géographie\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13480974
+      }
+    },
+    {
+      "query": "path:\"03 - Personnages\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5571074
+      }
+    },
+    {
+      "query": "path:\"05 - Assets\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "file:\"WizeCosm - Home\"",
+      "color": {
+        "a": 1,
+        "rgb": 16384229
+      }
+    },
+    {
+      "query": "path:\"WizeCosm - MMOPRG\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15482372
+      }
+    },
+    {
+      "query": "path:docs  ",
+      "color": {
+        "a": 1,
+        "rgb": 6784218
+      }
+    },
+    {
+      "query": "path:\"06 - Pilote Chap 1\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0.7,
+  "nodeSizeMultiplier": 1.3716552734375,
+  "lineSizeMultiplier": 1.13798014322917,
+  "collapse-forces": false,
+  "centerStrength": 0.600870768229167,
+  "repelStrength": 17.2957356770833,
+  "linkStrength": 1,
+  "linkDistance": 167,
+  "scale": 0.1629779437429439,
+  "close": true
+}

@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "a15480a1ca8b3deb",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcc311d6fe5bd4e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b7ea4e1e3aa2244",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - TimeLine/02 - TimeLine Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3ce46bede5b3d76",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1c12d0f941576e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f2737fac7a07b5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c4c99aea63aca739",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e932a9452d78cfd4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9543367a62af851a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ba8a45fd95b7fb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e6ea61239f28127",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 - TimeLine/02 - TimeLine Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "483c969c9a44256f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 - TimeLine/02 - TimeLine Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "893af336b6a04467",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b23a93a79874dd1b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 - TimeLine/02 - TimeLine Home.md"
+              }
+            }
+          },
+          {
+            "id": "83ef5e9f9046a05c",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-tts:Text to Speech": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "publish:Publier les modifications": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "83ef5e9f9046a05c",
+  "lastOpenFiles": [
+    "00 - Univers/00 - Univers HOME.md",
+    "WizeCosm - Home.md"
+  ]
+}

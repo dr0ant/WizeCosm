@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "4c047e5f66c25c2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5acbfdbe8ca316f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcb3c6610aea0b5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Géographie/01 - Géographie HOME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15af8427a4c8724f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Géographie/Continents/00 - Home Continent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14e03c532677698e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d9096ecc97c7596",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ab7c7fa0bdb91e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c4a591df2b08b835",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b37d47d8fdccd653",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "246584e2d2ba89c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce060e176dac6e4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01766dd25439ee44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Géographie/Continents/00 - Home Continent.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8620b5f058c2bb9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Géographie/Continents/00 - Home Continent.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f4c275107e94f7b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f47a2a47abe7af31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - Géographie/Continents/00 - Home Continent.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-tts:Text to Speech": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "publish:Publier les modifications": false
+    }
+  },
+  "active": "15af8427a4c8724f",
+  "lastOpenFiles": [
+    "01 - Géographie/01 - Géographie HOME.md",
+    "WizeCosm - Home.md"
+  ]
+}
