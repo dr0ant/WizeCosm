@@ -1,2 +1,0 @@
-Hank entre la chambre de ses deux fils qui sont tout jeune et dit 
-"Tout ira bien désormais."  Tout en s'asseyant au milieu de la pièce et en regardant la pleine lune dissiper les nuages par la fenêtre 

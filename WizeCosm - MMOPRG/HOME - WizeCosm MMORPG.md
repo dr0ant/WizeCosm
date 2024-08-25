@@ -1,1 +1,0 @@
-[[GPT's QUESTIONS]]

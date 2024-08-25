@@ -1,1 +1,0 @@
-![[Organisation Cosmer.drawio.png]]
