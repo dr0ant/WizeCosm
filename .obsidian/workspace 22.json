@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "8ff2bd02c5bce9df",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c4901be0633a30a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ea51f7597c466de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Pilote Chap 1/06 - Pilote Chap 1 - Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa40ea594a9cddae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Pilote Chap 1/Page 1.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b6a3d50d613c1ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "591a6c7b6f41960c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc8e3271ab5de95d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "797802a4e8f870b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc28a16dd1c1aa55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf728ee6171be315",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf0ad29c9fac1569",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c3d7180fcd40f6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06 - Pilote Chap 1/Page 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6cb978c73c24f747",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06 - Pilote Chap 1/Page 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c333fad1d7e4b875",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "591d83cf5d654fd0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "06 - Pilote Chap 1/Page 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-tts:Text to Speech": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "publish:Publier les modifications": false
+    }
+  },
+  "active": "aa40ea594a9cddae",
+  "lastOpenFiles": [
+    "05 - Assets/420107485_430740699308876_4032685609689609798_n.jpg",
+    "06 - Pilote Chap 1/06 - Pilote Chap 1 - Home.md",
+    "WizeCosm - Home.md",
+    "05 - Assets/Pasted image 20240120134529.png",
+    "01 - Géographie/Continents/00 - Home Continent.md",
+    "01 - Géographie/01 - Géographie HOME.md"
+  ]
+}
