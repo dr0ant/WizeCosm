@@ -115,7 +115,6 @@ De son côté l'équipage de Hank avait traversé la foret vers le sud, assez ra
 - une mystérieuse statuette d'un serpent.
     
 
---
 Pendant ce temps, Antha prenait soin de consigner dans le cahier de bord de voyage tous les détail de leur journée d'expédition.
 
 Bercés par les flots de la mer sur la falaise, l'équipage commença a s'endormir, se relayant pour les tours de garde.
@@ -153,14 +152,12 @@ une expédition militaire commençait à s'organiser alors que l'arrivée de l'�
 ---
 
 #   
------------
+
 Le Soleil se lève sur le camp Yamé,
 
 Hank est le premier levé, pendant la nuit il n'y a pas eu d'attaque. Néanmoins un aura particulier règne sur la zone.
 
 Le camp se réveil peu a peu, pendant ce temps Hank entame une visite du plateau rocheux. Arrivé au sommet il constate que l'île n'est pas seule dans la zone. L'équipage se trouve en faite sur l'île la plus au sud de l'Archipel. Il aperçoit au loin une île fendue en deux.
-
-
 
 Hank descend au campement et annonce la nouvelle à l'équipage. L'objectif des prochains jours serai d'établir un camp de base en tant qu'avant poste et de sécuriser la zone, le prochain objectif sera ainsi d'aller explorer les autres îles.
 
@@ -207,8 +204,6 @@ Le lac représentait en réalité 25% de l'île, une très grande surface donc.
 Il était désormais temps de retourner au camp. ils longèrent la côte nord pour retourner au point d'amarrage du navire, Ils en profitèrent pour décharger quelques vivres & outils stockés dans ce dernier et arrivèrent au campement par la plage.
 
   
-
-
 
 ---
 

@@ -4,53 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "502575aad7006419",
+        "id": "5e34eb6bbd5c3653",
         "type": "tabs",
         "children": [
           {
-            "id": "fe501e15ffb19cd3",
+            "id": "105a1a5db5a347fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Arcs/05 - Arc 1/PART 02/Narratif - Partie 2 - la découverte des îles.md",
+                "file": "04 - Arcs/05 - Arc 1/PART 01/Partie 1 - La traversée.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "bb6d6f0d29f2549d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c92bd71f28663fd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WizeCosm - Git Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb0c3b19f132452d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Arcs/04 - Arcs HOME.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Arcs/04 - Arcs HOME.md",
+                "file": "04 - Arcs/05 - Arc 1/PART 01/Partie 1 - La traversée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Arcs/04 - Arcs HOME.md",
+                "file": "04 - Arcs/05 - Arc 1/PART 01/Partie 1 - La traversée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Arcs/04 - Arcs HOME.md"
+                "file": "04 - Arcs/05 - Arc 1/PART 01/Partie 1 - La traversée.md"
               }
             }
           }
@@ -169,87 +138,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-tts:Text to Speech": false,
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "8e819d668a0e023f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "126827fc6ec820bb",
-        "type": "window",
-        "children": [
-          {
-            "id": "ef047bde3f520ca5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "75c9b1d1790b22e3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "04 - Arcs/04 - Arcs HOME.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 510,
-        "y": 540,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "75c9b1d1790b22e3",
+  "active": "105a1a5db5a347fe",
   "lastOpenFiles": [
-    "04 - Arcs/05 - Arc 1/PART 02/Partie 2 - la découverte des îles.md",
-    "04 - Arcs/05 - Arc 1/PART 01/Partie 1 - La traversée.md",
-    "04 - Arcs/04 - Phase 4/Phase 4 - L'équipage.md",
-    "04 - Arcs/03 - Phase 3/Phase 3 - La pluie d'étoiles.md",
-    "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md",
-    "04 - Arcs/05 - Arc 1/PART 02/Narratif - Partie 2 - la découverte des îles.md",
-    "04 - Arcs/04 - Arcs HOME.md",
-    "docs/lib/media/874d8b8e340f75575caa.svg",
-    "WizeCosm - Git Index.md",
-    "WizeCosm - Home.md",
-    "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md",
-    "07 - Migration EVERNOTE/04 - Les Arcs/ARCS/ARC 1 - Le voyage de Hank.md",
-    "03 - Personnages/Ychan.md",
-    "03 - Personnages/Strya.md",
-    "03 - Personnages/Toël.md",
-    "03 - Personnages/Lisea.md",
-    "04 - Arcs/05 - Arc 1/PART 01/Narratif - Partie 1 - La traversée.md",
-    "04 - Arcs/01 - Phase 1/SCENES - Phase 1/P1S1/CRP1S0.md",
-    "03 - Personnages/Kiesh.md",
-    "04 - Arcs/05 - Arc 1/PART 02",
     "docs/lib/metadata.json",
     "docs/WizeCosm - Git Index.html",
     "docs/04 - Arcs/05 - Arc 1/PART 01/Partie 1 - La traversée.html",
+    "WizeCosm - Git Index.md",
     "docs/04 - Arcs/05 - Arc 1/PART 01",
     "docs/04 - Arcs/04 - Phase 4/Phase 4 - L'équipage.html",
     "docs/04 - Arcs/03 - Phase 3/Phase 3 - La pluie d'étoiles.html",
     "docs/04 - Arcs/02 - Phase 2/Phase 2 - Mia.html",
     "docs/04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.html",
     "docs/04 - Arcs/05 - Arc 1",
+    "docs/04 - Arcs/04 - Phase 4",
+    "docs/04 - Arcs/04 - Arcs HOME.html",
+    "docs/lib/media/874d8b8e340f75575caa.svg",
+    "04 - Arcs/04 - Arcs HOME.md",
+    "04 - Arcs/05 - Arc 1/PART 01/Partie 1 - La traversée.md",
+    "04 - Arcs/04 - Phase 4/Phase 4 - L'équipage.md",
+    "04 - Arcs/03 - Phase 3/Phase 3 - La pluie d'étoiles.md",
+    "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md",
+    "04 - Arcs/05 - Arc 1/PART 01/Narratif - Partie 1 - La traversée.md",
+    "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md",
     "05 - Assets/427980711_368993032703937_5695039846606356235_n.png",
     "04 - Arcs/04 - Phase 4/NARRATIF - Phase 4 - Préparation du Voyage de Hank.md",
     "WizeCosm - MMOPRG/HOME - WizeCosm MMORPG.md",
+    "WizeCosm - Home.md",
     "Helron.md",
     "01 - Géographie/01 - Géographie HOME.md",
     "05 - Assets/IMG_0063 2.png",

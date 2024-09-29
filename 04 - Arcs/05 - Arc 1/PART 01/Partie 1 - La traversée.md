@@ -8,23 +8,23 @@ Taneï leva les yeux, une lueur de surprise dans son regard en voyant son père 
 
 Hank s'installa à côté d'eux, l'air détendu. "Eh bien, les affaires ont évolué plus rapidement que prévu. Mais regardez-vous deux, en train de gérer les choses comme des pros pendant mon absence."
 
-"On a  de fait de notre mieux", répondit Taneï, en essuyant la sueur de son front.
+"Nous avons essayé de faire de notre mieux", répondit Taneï, en essuyant la sueur de son front.
 
-"Et vous avez fait un travail formidable", dit Hank le regard fier "Mais j'ai quelque chose d'important à vous dire."
+"Et vous avez fait un travail formidable", dit Hank le regard fier "Mais maintenant, j'ai quelque chose d'important à vous dire."
 
 Les fils de Hank se tournèrent vers lui, curieux.
 
-"La situation dans le monde devient de plus en plus étrange, pour être honnête c'est le bordel.", commença Hank, son ton devenant sérieux. "Les tensions de la guerre étaient à peine résorbée, et maintenant nous devons faire face à des phénomènes étranges comme cette pluie d'étoiles et cette mystérieuse source d'énergie."
+"La situation dans le monde devient de plus en plus étrange", commença Hank, son ton devenant sérieux. "La guerre laisse des traces, et maintenant nous devons faire face à des phénomènes étranges comme cette pluie d'étoiles et cette mystérieuse source d'énergie."
 
 Taneï et Öko échangèrent un regard, presque surpris de l'importance que prenait la situation.
 
-"Tu veux dire que ta mission n'est pas terminée ?" demanda Öko.
+"Tu veux dire que ta mission n'est pas terminée" demanda Öko.
 
 Hank hocha la tête. "Exactement. En faite, je pense qu'elle ne fait que commencer."
 
-"Les tensions entre les factions Yamé et Gamé n'ont jamais étaient aussi importante depuis 15 ans …"
+" Les tensions entre les factions Yamé et Gamé n'ont jamais étaient aussi importante depuis 15 ans … "
 
-Hank soupira, se sentant comme s'il devait leur expliquer une réalité difficile à avaler. "J'ai passé les 15 dernières années loin de l'aventure, à profiter de cette paix qui m'a beaucoup coûté. Aujourd'hui, vous êtes autonomes et n'avez plus vraiment besoin de ma protection. Cette mission, je la fais pour deux raisons. La première est de vous offrir cette paix pour encore quelques belles années. La deuxième est de renouer avec l'aventure car je suis et je resterai toujours un Cosmer."
+Hank soupira, se sentant comme s'il devait leur expliquer une réalité difficile à avaler. "J'ai passé les 15 dernières années loin de l'aventure, profitant de cette paix qui nous a tant coûté. Aujourd'hui, vous êtes autonomes et n'avez plus vraiment besoin de ma protection. Cette mission, je la fais pour deux raisons. La première est de vous offrir cette paix pour encore quelques belles années. La deuxième est de renouer avec l'aventure car je suis et je resterai toujours un Cosmer."
 
 Cette tirade émue nos trois protagonistes. Ils s'enlacèrent une dernière fois avant qu'Hank ne reprenne son sac de voyage. Ses grandes haches étaient attachées à l'arrière de ce dernier, faisant ressurgir son passé de guerrier.
 
@@ -55,7 +55,7 @@ Hank observait silencieusement, absorbant les paroles de ses compagnons. Il sava
 
 Quand le navire leva enfin l'ancre, l'excitation et la détermination brillaient dans les yeux de chaque membre de l'équipage. Ils étaient prêts à affronter l'inconnu et à découvrir les secrets cachés au cœur de l'Amarthie.
 
-Le plan était simple mais crucial : découvrir l'origine de cette source de Cosm, sécuriser la zone et ouvrir un canal d'acheminement vers l'Amarthie. Malgré les informations limitées après les tsunamis, qui indiquaient la présence de météorites dans cet océan, l'équipage était confiant. Siek avait recommandé d'effectuer la traversée classique vers Helboug. Avec cette source d'énergie située quelque part entre l'Amarthie et l'Aldisil, ils étaient convaincus de finir par tomber dessus. Une certitude mêlée à une pointe d'incertitude, c'était là le lot de ceux qui osaient défier l'inconnu.
+Le plan était simple mais crucial : découvrir l'origine de cette source de Cosm, sécuriser la zone et ouvrir un canal d'acheminement vers l'Amarthie. Malgré les informations limitées après les tsunamis, qui indiquaient la présence de météorites dans cet océan, l'équipage gardait espoir. Siek avait recommandé d'effectuer la traversée classique vers Helboug. Avec cette source d'énergie située quelque part entre l'Amarthie et l'Aldisil, ils étaient convaincus de finir par tomber dessus. Une certitude mêlée à une pointe d'incertitude, c'était là le lot de ceux qui osaient défier l'inconnu.
 
 							* * *
 
@@ -67,7 +67,7 @@ Plus l'équipage avançait vers leur objectif, plus la mer semblait se déchaîn
 
 Siek se tenait à la barre, son regard scrutant l'horizon avec une concentration intense. Il sentait que quelque chose n'allait pas, que les vagues n'étaient pas les seules responsables de cette agitation.
 
-C'est alors qu'Atriak, perché en sentinelle sur le mât du navire, poussa soudain un cri d'alerte. Ses yeux écarquillés fixaient l'eau tourmentée sous eux, et il semblait voir quelque chose que les autres ne voyaient pas.
+C'est alors qu'Atriak, perché en sentinelle sur le mât du navire, poussa soudain un cri d'alerte. Ses yeux écarquillés fixaient l'eau tourmentée sous eux, et il semblait voir quelque chose que les autres ne pouvaient pas.
 
 "Des ombres sous l'eau !" annonça-t-il d'une voix haletante, alertant tout l'équipage.
 
@@ -84,9 +84,9 @@ Alors que le tumulte des vagues agitait le navire de leur père au loin, Taneï 
 
 "Je me demande à quoi ressemble l'Aldisil", murmura Jeanne, son regard perdu dans l'horizon lointain. "J'imagine des paysages majestueux, des montagnes couvertes de forêts luxuriantes."
 
-Taneï acquiesça avec enthousiasme. "Oh, j'aimerais tellement le découvrir par moi-même ! Imaginez, parcourir ses terres et défier les éléments en tant que Cosmer. C'est mon rêve."
+Taneï acquiesça avec enthousiasme. "Oh, j'aimerais tellement le découvrir par moi-même ! Imaginez, parcourir ses terres et défier les éléments en tant que Cosmer. C'est mon rêve depuis que je suis enfant."
 
-Öko observait le mouvement de la flamme dans l'âtre, ses pensées vagabondant vers des horizons lointains. "Moi aussi ...  D'ailleurs je ne suis pas sûr de rester ici. Fray est merveilleuse ... Mais je veux découvrir le monde, voir ce qui se cache au-delà de nos frontières."
+Öko observait le mouvement de la flamme dans l'âtre, ses pensées vagabondant vers des horizons lointains. "Moi aussi ...  D'ailleurs je ne suis pas sûr de rester ici. Fray est merveilleuse ... Mais je ressens le besoin de découvrir le monde, de voir ce qui se cache au-delà de nos frontières."
 
 Jeanne posa une main réconfortante sur l'épaule de Öko. "Tu trouveras ta voie. Peut-être que nous pourrions partir ensemble un jour, explorer les contrées les plus reculées et vivre des aventures dignes des récits de ton père."
 
@@ -94,7 +94,7 @@ Jeanne posa une main réconfortante sur l'épaule de Öko. "Tu trouveras ta voie
 
 Regardant vers l'horizon, Jeanne exprima ses aspirations avec une lueur d'excitation dans les yeux.
 
-"Depuis que je suis toute petite, j'ai été captivée par les récits sur l'armée des flammes ainsi que ceux d'Hank", dit-elle, sa voix vibrant d'enthousiasme. "Leur mission de protéger les gens et de répandre la lumière et la connaissance à travers le monde... c'est tellement noble et inspirant."
+"Vous savez, depuis que je suis toute petite, j'ai été captivée par les récits sur l'armée des flammes ainsi que ceux d'Hank", dit-elle, sa voix vibrant d'enthousiasme. "Leur mission de protéger les gens et de répandre la lumière et la connaissance à travers le monde... c'est tellement noble et inspirant."
 
 Taneï et Öko hochèrent la tête, écoutant attentivement les rêves de leur amie.
 
@@ -131,6 +131,4 @@ Le petit matin apportait avec lui une lueur douce qui éclairait légèrement la
 Hank observa l'horizon, ses yeux scrutant attentivement la plage de roche noire qui se dessinait au loin, contrastant avec la verdure luxuriante des hauteurs de l'île. Un frisson d'anticipation parcourut son échine alors qu'il se demandait ce que cette île mystérieuse pouvait cacher, et quelle destinée les attendait sur ses rivages inexplorés.
 
 
-
->> SUITE ARC 1 : Le voyage de Hank : [[Partie 2 - la découverte des îles]]
 

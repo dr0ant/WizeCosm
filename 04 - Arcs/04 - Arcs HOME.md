@@ -1,4 +1,4 @@
-![[world-map-2024QGIS.png]]
+![[427980711_368993032703937_5695039846606356235_n.png]]
 # Phases Introductives 
 [[Phase 1 - les Séquelles de la guerre]]
 [[Phase 2 - Mia]]
@@ -7,4 +7,3 @@
 
 # ARC 1 : Le voyage de Hank
 [[Partie 1 - La traversée]]
-[[Partie 2 - la découverte des îles]]
