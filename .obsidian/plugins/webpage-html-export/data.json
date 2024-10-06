@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "C:\\\\Users\\larch\\iCloudDrive\\iCloud~md~obsidian\\WizeCosm\\docs",
+  "exportPath": "/Users/antoinelarcher/Library/Mobile Documents/iCloud~md~obsidian/Documents/WizeCosm/docs",
   "filesToExport": [
     [
       "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md",
@@ -52,6 +52,7 @@
       "04 - Arcs/04 - Phase 4/Phase 4 - L'équipage.md",
       "04 - Arcs/05 - Arc 1/PART 01/Partie 1 - La traversée.md",
       "04 - Arcs/05 - Arc 1/PART 02/Partie 2 - la découverte des îles.md",
+      "04 - Arcs/05 - Arc 1/PART 03/Partie 3 - Rencontre équipages Yamés ¦ Gamé.md",
       "04 - Arcs/04 - Arcs HOME.md",
       "WizeCosm - Git Index.md"
     ]

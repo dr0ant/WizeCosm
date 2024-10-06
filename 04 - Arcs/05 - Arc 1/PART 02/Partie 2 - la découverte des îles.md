@@ -665,3 +665,7 @@ Les discussions s’animèrent soudainement, des voix s’élevant avec passion 
 Au milieu de l'agitation, le conseiller XXX leva la main, réclamant le silence. Sa voix, calme mais ferme, coupa à travers le tumulte. « Calmons-nous, » dit-il d’un ton posé, mais ferme. « Nous devons attendre plus d’informations avant d’agir. Que les troupes soient prêtes, et préparons un offensive au cas ou. »
 
 Un silence pesant s’installa tandis que les conseillers acquiesçaient, leurs visages marqués par la tension. Les mots de Hank et Seguy avaient semé le doute et la peur, et même dans la sécurité de Glothäm, capitale majestueuse du monde, l'ombre d'un conflit imminent semblait se profiler à l’horizon, rappelant à tous que la paix était fragile, et le monde, plus connecté que jamais.
+
+
+
+>> SUITE ARC 1 : Le voyage de Hank : [[Partie 3 - Rencontre équipages Yamés ¦ Gamé]]
