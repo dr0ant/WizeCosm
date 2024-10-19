@@ -12,7 +12,7 @@ Tous les regards convergèrent vers lui. Il pointa l’un des îlots, légèreme
 
 Liséa se pencha vers lui, les poings appuyés sur la carte. « De dissimulation ? »
 
-Kiesh hocha la tête gravement. « Oui. Les Gamés utilisent cette technique pour masquer leur présence, mais là, c’est à une échelle bien plus grande. C’est l’île entière qui est dissimulée. Cela demande une énergie phénoménale et une maîtrise parfaite du Cosm. Néanmoins nous l'avion dessinée sur la carte après avoir aperçu le brouillard qui l'entourait. »
+Kiesh hocha la tête gravement. « Oui. C’est un art Gamé pour masquer sa présence, mais là, c’est à une échelle bien plus grande. C’est l’île entière qui est dissimulée. Cela demande une énergie phénoménale et une maîtrise parfaite du Cosm. Néanmoins nous l'avion dessinée sur la carte après avoir aperçu le brouillard qui l'entourait. »
 
 L’assemblée se figea. Un silence pesant tomba, comme si chaque mot de Kiesh avait alourdi l’air. Liséa se redressa lentement, son regard fixé sur la carte. « Alors c’est là. »
 
@@ -22,25 +22,25 @@ Un des officiers, assis à la gauche de Liséa, se racla la gorge. « Commandant
 
 Liséa le regarda avec une lueur d’agacement. « Ils ne sont pas encore là. Sinon, nous aurions détecté leur présence. » Son ton se fit plus dur. « Mais il est vrai que si nous ne nous dépêchons pas, ils ne tarderont pas à venir. Nous devons frapper les premiers. »
 
-Kiesh hocha la tête, pensif. « Si cette île est le cœur des altérations de Cosm, alors c’est aussi probablement un piège. »
+Kiesh hocha la tête, pensif. « Si cette île est le cœur des altérations du Cosm, alors c’est aussi probablement un piège. »
 
 Un sourire froid se dessina sur les lèvres de Liséa. « Et bien, qu’ils tentent de nous piéger. Nous verrons qui tombera le premier. »
 
 Ychan s’avança enfin, sa large silhouette projetant une ombre imposante dans la tente. « Les renforts seront prêts, commandante ... Néanmoins ce ne sont que des marins pas des guerriers. Nous devront combattre sans eux. » il ajouta " Nous devrons nous préparer à de la resistance. "
 
-« C’est précisément ce que nous allons découvrir, » répliqua-t-elle, résolue. « Ce n’est pas simplement une question de trouver la source de Cosm. C’est une course contre le temps, contre ce qui s'y trouve » Elle accentua ce dernier mot, faisant allusion aux Yamés sans même avoir besoin de les nommer.
+« C’est précisément ce que nous allons découvrir, » répliqua-t-elle, résolue. «  C’est une course contre le temps, contre ce qui se trouve sur cette île. » Elle accentua ce dernier mot, faisant allusion aux Yamés sans même avoir besoin de les nommer.
 
 Elle balaya l’assemblée du regard. « Nous ne pouvons pas nous permettre d’échouer. Si cette île est l’épicentre des altérations, alors elle est la clé. Tout se jouera là-bas. »
 
 Le silence qui suivit résonna comme une promesse tacite entre les membres de l’équipage. Les regards étaient fermes, résolus. L’enjeu dépassait les simples questions de pouvoir. Quelque chose de plus grand, de plus mystérieux, les attendait sur cette île.
 
-Kiesh rompit le silence en se levant lentement, ses doigts effleurant la carte. « Il n’y a aucun doute, » dit-il doucement. « Nous avons été bien bernés par ce subterfuge, mais cette île est l’épicentre des altérations de Cosm. »
+Kiesh rompit le silence en se levant lentement, ses doigts effleurant la carte. « Il n’y a aucun doute, » dit-il doucement. « Nous avons été bien bernés par ce subterfuge, mais cette île est l’épicentre des altérations du Cosm. »
 
 Liséa acquiesça. « Alors nous y allons. Que tout le monde se prépare. »
 
 Un frisson traversa l'assemblée, non pas de peur, mais d'anticipation. L'expédition vers l'île dissimulée marquerait un tournant dans leur mission. Ce n’était plus qu’une question d'exploration ou de cartographie. Là-bas, sur cette île cachée par des forces mystérieuses, se jouerait le destin de leur quête. Ils le savaient tous.
 
-
+                * * *
 
 Après avoir traversé le portail menant à Helboug, Liséa se tenait droite devant les dirigeants Gamé, les mains posées sur la table de pierre froide où étaient éparpillées des cartes et des documents. La lumière pâle du portail de Kiesh qui pulsait faiblement derrière elle semblait presque étrangère à l'atmosphère tendue de la salle de commandement du palais d'Helboug. Les regards des dirigeants haut-elfs étaient tournés vers elle, attentifs, attendant qu'elle prenne la parole.
 
@@ -48,19 +48,19 @@ Après avoir traversé le portail menant à Helboug, Liséa se tenait droite dev
 
 Elle s’approcha de la grande carte sur la table, illuminant de son feu de Cosm une île parmi les archipels émergés. « C’est ici. Cette île est la source de l’altération. Nous devons intervenir rapidement avant que la situation ne dégénère davantage. »
 
-Un murmure parcourut la salle, mais avant que quiconque ne puisse prendre la parole, l’un des dirigeants, un vieux stratège aux traits sévères, se leva. « Commandante, nous saluons vos découvertes, mais il est impératif de rappeler la nature sensible de cette mission. » Son regard se fit plus perçant, cherchant le sien. « Vous êtes consciente que cette affaire est très sensible. Les répercussions d’une quelconque divulgation seraient catastrophiques. La discrétion absolue est de rigueur. Aucune information ne doit fuir, pas même une rumeur. Nous ne pouvons nous permettre de provoquer des conflits avec les autres factions, pas en ce moment. »
+Un murmure parcourut la salle, mais avant que quiconque ne puisse prendre la parole, l’un des dirigeants, un vieux stratège aux traits sévères, se leva. « Commandante, nous saluons vos découvertes, mais il est impératif de rappeler la nature sensible de cette mission. » Son regard se fit plus perçant, cherchant le sien. « Vous êtes consciente que cette affaire est très politique. Les répercussions d’une quelconque divulgation seraient catastrophiques. La discrétion absolue est de rigueur. Aucune information ne doit fuir, pas même une rumeur. Nous ne pouvons nous permettre de provoquer des conflits avec l'autre faction, pas en ce moment. »
 
 Liséa acquiesça d’un signe de tête, comprenant la gravité des paroles. « Soyez assurés que tout est mis en place pour garantir le secret de cette opération. Nous agissons sous le plus grand des voiles. Cependant… » Elle hésita un instant, pesant ses mots avant de reprendre. « Nous ne sommes pas les seuls sur cette piste. J’ai repéré un équipage Yamé aux abords de l’île. »
 
 À ces mots, les dirigeants échangèrent des regards inquiets, leurs sourcils froncés. Liséa poursuivit, consciente de l'importance de cette révélation.
 
-« Je ne sais pas quelles sont leurs intentions. Il est possible qu’ils ne soient pas encore au courant de l’altération, mais je ne peux pas écarter l’hypothèse qu’ils soient impliqués. Ils pourraient simplement être là par hasard, ou... ils pourraient être des acteurs dans cette altération. » Elle marqua une pause, laissant ses mots peser dans l’air, avant d'ajouter : « Dans tous les cas, nous devons agir rapidement et avec prudence. »
+« Je ne sais pas quelles sont leurs intentions. Il est possible qu’ils ne soient pas encore au courant de l’altération, mais je ne peux pas écarter l’hypothèse qu’ils soient impliqués. Ils pourraient simplement être là par hasard, ou ... ils pourraient être des acteurs dans cette altération. » Elle marqua une pause, laissant ses mots peser dans l’air, avant d'ajouter : « Dans tous les cas, nous devons agir rapidement et avec prudence. »
 
 L’un des conseillers, une elf au visage marqué par des années de négociations diplomatiques, prit la parole d’une voix mesurée. « Vous comprenez, Commandante, que tout faux pas avec les Yamés pourrait avoir des conséquences diplomatiques désastreuses. Si cette mission échoue, c’est bien plus qu’un conflit militaire que nous risquons. »
 
 « J’en suis pleinement consciente », répondit Liséa avec fermeté. « C’est pour cela que j'ai constitué un équipage trié sur le volet. Des experts, des soldats de confiance. Les Phoséidiens que j’ai fait venir pour la traversée connaissent ces eaux mieux que quiconque, et notre opération sera rapide et discrète. Nous devons atteindre l’île avant que les Yamés n’en apprennent davantage, ou pire, qu'ils ne tentent de manipuler l’altération à leur avantage. »
 
-Elle laissa son regard balayer la pièce, croisant les yeux de chacun des dirigeants. « C’est notre dernière chance d’intervenir. Si nous échouons, les conséquences pour Cosm pourraient être irréversibles. »
+Elle laissa son regard balayer la pièce, croisant les yeux de chacun des dirigeants. « C’est notre dernière chance d’intervenir. Si nous échouons, les conséquences sur l'équilibre actuel pourraient être irréversibles. »
 
 Un silence pesant s'installa, où chaque parole semblait avoir pris racine dans l’esprit des dirigeants Gamé. Après un moment, le roi d'Helboug hocha la tête gravement. « Liséa Burning Hands, il faut que vous sachiez que la faction Yamé non plus ne nous a pas informé d'une quelconque mission sur ces îles, ainsi, si vous faite face aux Yamé, faite le nécéssaire. »
 
@@ -93,9 +93,9 @@ Quand enfin le navire accosta sur une petite plage rocailleuse, l’équipage po
 Mais à peine le pied posé sur la terre ferme, Liséa ressentit une nouvelle forme de pression. un poids, une force qui dépassait tout ce qu’elle avait pu imaginer. Le Cosm circulant sur cette île était écrasant, oppressant, presque tangible. Chaque membre de l'équipage ressentait cette énergie, un flux si puissant qu'il semblait comprimer leur propre essence. Tous, sauf Strya et Toël. Ces deux-là, des vétérans solides du MLC, restaient étrangement calmes sous cette marée cosmique.
 
 « Qu’est-ce que c’est que cet endroit... » murmura Toël, scrutant l’horizon . Mais il n’obtint aucune réponse.
-Le brouillard entourait l'île telle un dome semblait provenir du centre de l'île.
+Le brouillard entourait l'île telle un dôme qui semblait provenir du centre de l'île.
 
-Liséa s’avança, son esprit déjà en ébullition. Elle tentait de comprendre la situation. Clairement elle ne s'attendait pas à ça. A cause du brouillard, Kiesh était incapable de former un portail. Impossible d'établir une connexion avec Helboug ou leur camp de base. Ils étaient coupés du monde, livrés à eux-mêmes dans ce dome surnaturelle. Était-ce l’œuvre des Yamés ? Un artefact, peut-être, capable de manipuler ainsi l’essence du Cosm et d’isoler une zone entière ? L’idée la dérangeait profondément, mais elle ne pouvait écarter cette hypothèse.
+Liséa s’avança, son esprit déjà en ébullition. Elle tentait de comprendre la situation. Clairement elle ne s'attendait pas à ça. A cause du brouillard, Kiesh était incapable de former un portail. Impossible d'établir une connexion avec Helboug ou leur camp de base. Ils étaient coupés du monde, livrés à eux-mêmes dans ce dôme surnaturelle. Était-ce l’œuvre des Yamés ? Un artefact, peut-être, capable de manipuler ainsi l’essence du Cosm et d’isoler une zone entière ? L’idée la dérangeait profondément, mais elle ne pouvait écarter cette hypothèse.
 
 L’équipage, habitué à l’ordre strict et aux plans bien ficelés de leur commandante, commençait à montrer des signes de doute. Liséa sentait leur nervosité monter à mesure que la situation leur échappait.
 
@@ -103,7 +103,7 @@ Elle prit une profonde inspiration et leva la main, demandant le silence.
 
 « Nous n'avons pas le temps de douter. Voici les ordres du roi Helboug. » Sa voix, ferme et impérieuse, traversa l'air comme une lame bien affûtée. « Nous avons été envoyés ici pour enquêter, et nous allons accomplir cette mission, qu'importe les obstacles. Nous devons trouver la source de l’altération et la neutraliser avant qu’elle ne devienne incontrôlable. Et si nous rencontrons les Yamés… » Elle marqua une pause, pesant ses mots, repensant à ce que le roi avait ordonné. Elle déglutit. « Nous ferons le nécessaire. »
 
-Ces derniers mots résonnaient encore dans son esprit. Le nécessaire. Comment en était-elle arrivée là ? Il y a des décennies, Elle avait étudié et combattu aux côtés des Yamés ... À cette époque, les relations entre les Gamés et les Yamés étaient tout autres. Ils avaient combattu ensemble, repoussant les créatures altérées, et elle avait partagé le sang et la gloire avec plusieurs de leurs guerriers. Mais ces jours-là étaient loin derrière eux.
+Ces derniers mots résonnaient encore dans son esprit. Le nécessaire. Comment en était-elle arrivée là ? Il y a des décennies, Elle avait étudié et combattu aux côtés des Yamés ... À cette époque, les relations entre les Gamés et les Yamés étaient toutes autres. Ils avaient combattu ensemble, repoussant les créatures altérées, et elle avait partagé le sang et la gloire avec plusieurs de leurs guerriers. Mais ces jours-là étaient loin derrière eux.
 
 Aujourd’hui, les conflits politiques, les intrigues autour du Cosm et les ambitions dévorantes avaient tout changé. Liséa avait vu les choses s’effriter, lentement mais sûrement. Désormais, tout ce qu'elle ressentait à l'égard des Yamés n'était que méfiance et mépris. Ils n’étaient plus des alliés, mais des rivaux dangereux qui jouaient avec des forces qu’ils ne comprenaient pas. Des ennemis potentiels qu'elle devait neutraliser si nécessaire.
 
@@ -250,7 +250,7 @@ La chaleur de l’explosion fit vaciller Hank, qui, surpris, recula d’un bond.
 
 La distance entre eux était désormais ténue, et les deux adversaires savaient que l’issue de ce combat se déciderait dans les prochains échanges.
 
-############REPRENDRE ICI#########################
+
 
 La chaleur des flammes commençait à retomber, l’air encore saturé de fumée et de cendres. Les combattants de chaque camp, fatigués, mais toujours en alerte, se tenaient à distance, cherchant leurs prochaines ouvertures. Au centre du champ de bataille, Hank et Liséa se faisaient face, leurs poitrines se soulevant au rythme saccadé de leur respiration. Leurs armes brillaient encore sous l'éclat résiduel des flammes.
 

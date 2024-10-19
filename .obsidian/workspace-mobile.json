@@ -14,7 +14,9 @@
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2024-04-14 14.49.26.excalidraw.md"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -26,7 +28,9 @@
                 "file": "04 - Arcs/05 - Arc 1/PART 03/Partie 3 - Rencontre équipages Yamés ¦ Gamé.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Partie 3 - Rencontre équipages Yamés ¦ Gamé"
             }
           }
         ],
@@ -46,7 +50,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -61,7 +67,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -72,7 +80,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -80,7 +90,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -104,7 +116,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -116,7 +130,9 @@
             "file": "04 - Arcs/05 - Arc 1/PART 03/Partie 3 - Rencontre équipages Yamés ¦ Gamé.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -126,7 +142,9 @@
           "type": "outline",
           "state": {
             "file": "04 - Arcs/05 - Arc 1/PART 03/Partie 3 - Rencontre équipages Yamés ¦ Gamé.md"
-          }
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       }
     ],
