@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "-path:\"07 - Migration EVERNOTE\"  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Race  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Home",
+      "color": {
+        "a": 1,
+        "rgb": 5405920
+      }
+    },
+    {
+      "query": "tag:#Geographie",
+      "color": {
+        "a": 1,
+        "rgb": 5431380
+      }
+    },
+    {
+      "query": "tag:#Monnaie  ",
+      "color": {
+        "a": 1,
+        "rgb": 14734418
+      }
+    },
+    {
+      "query": "path:\"04 - Arcs\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7281320
+      }
+    },
+    {
+      "query": "path:\"03 - Personnages\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16639
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.473958333333333,
+  "repelStrength": 12.5,
+  "linkStrength": 0.359375,
+  "linkDistance": 103,
+  "scale": 0.9417032695463288,
+  "close": true
+}

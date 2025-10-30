@@ -1,0 +1,197 @@
+{
+  "vaultName": "WizeCosm",
+  "lastExport": 1728214607102,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md",
+    "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md",
+    "04 - Arcs/03 - Phase 3/Phase 3 - La pluie d'étoiles.md",
+    "04 - Arcs/04 - Phase 4/Phase 4 - L'équipage.md",
+    "04 - Arcs/05 - Arc 1/PART 01/Partie 1 - La traversée.md",
+    "04 - Arcs/05 - Arc 1/PART 02/Partie 2 - la découverte des îles.md",
+    "04 - Arcs/05 - Arc 1/PART 03/Partie 3 - Rencontre équipages Yamés ¦ Gamé.md",
+    "04 - Arcs/04 - Arcs HOME.md",
+    "WizeCosm - Git Index.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "fileInfo": {
+    "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.md": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 2731,
+      "exportedPath": "04 - Arcs/01 - Phase 1/Phase 1 - les Séquelles de la guerre.html",
+      "dependencies": []
+    },
+    "04 - Arcs/02 - Phase 2/Phase 2 - Mia.md": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 30173,
+      "exportedPath": "04 - Arcs/02 - Phase 2/Phase 2 - Mia.html",
+      "dependencies": []
+    },
+    "04 - Arcs/03 - Phase 3/Phase 3 - La pluie d'étoiles.md": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 8136,
+      "exportedPath": "04 - Arcs/03 - Phase 3/Phase 3 - La pluie d'étoiles.html",
+      "dependencies": []
+    },
+    "04 - Arcs/04 - Phase 4/Phase 4 - L'équipage.md": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 6939,
+      "exportedPath": "04 - Arcs/04 - Phase 4/Phase 4 - L'équipage.html",
+      "dependencies": []
+    },
+    "04 - Arcs/05 - Arc 1/PART 01/Partie 1 - La traversée.md": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 12857,
+      "exportedPath": "04 - Arcs/05 - Arc 1/PART 01/Partie 1 - La traversée.html",
+      "dependencies": []
+    },
+    "04 - Arcs/05 - Arc 1/PART 02/Partie 2 - la découverte des îles.md": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 60196,
+      "exportedPath": "04 - Arcs/05 - Arc 1/PART 02/Partie 2 - la découverte des îles.html",
+      "dependencies": []
+    },
+    "04 - Arcs/05 - Arc 1/PART 03/Partie 3 - Rencontre équipages Yamés ¦ Gamé.md": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 45607,
+      "exportedPath": "04 - Arcs/05 - Arc 1/PART 03/Partie 3 - Rencontre équipages Yamés ¦ Gamé.html",
+      "dependencies": []
+    },
+    "04 - Arcs/04 - Arcs HOME.md": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 321,
+      "exportedPath": "04 - Arcs/04 - Arcs HOME.html",
+      "dependencies": []
+    },
+    "WizeCosm - Git Index.md": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 18,
+      "exportedPath": "WizeCosm - Git Index.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1728214607102,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    }
+  }
+}
