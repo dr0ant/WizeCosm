@@ -1,0 +1,3 @@
+alors que la bataille finale fait rage en Kritia, que Taneï Oko et Jeanne sont à bout de force que les membres du  Main Land Cosm sont en train de combattre les autres membres de plénitude. Dans un désarroi total. Taneï trouve sur le sol, l’épée Mia qu’ils avaient forgé, il y a de cela cinq ans, et dans un élan de bravoure, il la prend il la projette avec une force impressionnante droit sur Paléisto.
+
+Surpris par ce projectile, Paléisto alors en plein puissance et ayant ressicité un ancien Coloss s’effondre laissant une nouvelle chance au trio de l’affronter a armes égales

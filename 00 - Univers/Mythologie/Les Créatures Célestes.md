@@ -1,0 +1,5 @@
+Les Créatures Célestes, premiers enfants des Dieux ([[Les Dieux]]), sont investies du souffle créateur. Héritières directes de la puissance divine, elles portent en elles la faculté de donner naissance à des mondes. Pourtant, ce don n’est pas sans limite : l’univers ne peut contenir qu’un nombre fini de créations, et chaque nouvelle naissance vient restreindre la place des autres. C’est de cette rareté que jaillissent les rivalités entre les Dieux, chacun cherchant à étendre l’influence de sa lignée.
+
+Lorsqu’une Créature Céleste façonne un monde, elle engendre un Œuf Cosmique, une sphère d’énergie pure suspendue dans le vide. À mesure que le temps s’écoule, cet œuf se condense et se transforme en un astre, une étoile, ou une planète. Ainsi naissent les mondes, tels des perles luminescentes tissées dans la toile du firmament.
+
+Parmi ces créations se trouve [[WizeCosm]], un monde-noyau, fruit d’un ancien Œuf céleste dont l’essence abrite encore l’écho des chants divins. Ces Astres ([[Les Astres]]) ne sont pas de simples corps célestes : chacun renferme une âme en gestation, un esprit-monde appelé à s’éveiller, grandir et, parfois, à rêver de ses propres enfants.

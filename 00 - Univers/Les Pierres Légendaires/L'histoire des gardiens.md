@@ -1,0 +1,26 @@
+L’histoire des Gardiens s’enracine dans la création même des [[Les 6 pierres légendaires]]. Après leur forge et la fin de la guerre contre [[Les Grands Cataclysmes]], les peuples de [[WizeCosm]] comprirent que l’équilibre du monde dépendait désormais de ces six artefacts. Il fallut alors des êtres d’une sagesse et d’une pureté exceptionnelles pour en assurer la garde.
+
+Dans chaque région du monde furent érigés des temples colossaux, bâtis à la fois comme forteresses et sanctuaires, abritant l’une des six pierres. Ces temples devinrent les plus grands symboles de la renaissance de [[WizeCosm]], leurs dômes reflétant la lumière de [[Astar]] et leurs flèches transperçant les cieux. Pour veiller sur ces lieux sacrés, on désigna des Gardiens – des êtres choisis dès l’enfance pour leur lien singulier avec [[Le Cosm]]  et leur aptitude à le canaliser sans être corrompus.
+
+Chaque Gardien vivait reclus dans son temple, entouré d’un petit cercle de disciples et de serviteurs dévoués. Leurs journées étaient rythmées par des rituels de méditation, de purification et d’études consacrées à comprendre les mystères du Cosm. Une seule fois par an, à la date anniversaire de la création des pierres, les Gardiens quittaient leur sanctuaire pour participer à la Grande Fête du Souffle, un événement cosmique célébrant l’union entre matière, énergie et esprit. Ce jour-là, les peuples de tous les continents convergeaient vers les sanctuaires, offrant prières, danses et offrandes en hommage à ces êtres considérés comme les protecteurs de la vie elle-même.
+
+## L’Ère des Gardiens : âge d’harmonie et de savoir
+
+Ce que l’on appelle aujourd’hui l’Ère des Gardiens fut une période d’une prospérité sans précédent. La puissance des pierres afflua dans le monde, stabilisant  [[Le Cosm]] et apaisant les terre et les mers. Les récoltes devinrent abondantes, les océans paisibles, et les famines ne furent plus qu’un souvenir.
+Des citadelles s’élevèrent autour des temples, formant des villes sanctuaires où science, art et spiritualité prospérèrent ensemble. Les Gardiens, bien que discrets, inspiraient toutes les sphères de la société : leurs paroles guidaient les rois, leurs décisions réglaient les conflits, et leurs enseignements formèrent la base d’écoles mystiques consacrées au contrôle du Cosm.
+
+C’est pendant cette ère d’harmonie que les êtres vivants de [[WizeCosm]] commencèrent à comprendre comment le Cosm influençait leur propre nature. Les savants l’expérimentaient dans les sciences, les artistes dans la création, et les cultivateurs dans la terre elle-même. La compréhension du flux cosmique donna naissance à une civilisation raffinée, fondée sur l’équilibre entre l’énergie et la matière.
+
+Mais progressivement, cette ère d’or vit se dessiner une fracture idéologique. Les Yamés( [[Faction Yamé]]) commencèrent a utiliser les ressources de la terre pour utiliser l'énergie du Cosm dans leur inventions toujours plus poussées, les Gamés ([[Faction Gamé]]), se vouèrent dans les Cultes de Divinités Cosm voulant protéger chaque parcel de ce monde sacré. De ce désaccord, d’abord théorique, se transforma lentement en méfiance, puis en hostilité ouverte.
+
+## Le crépuscule des Gardiens
+
+Les tensions entre les factions s’envenimèrent sur plusieurs siècles. Les temples, jadis lieux de communion, devinrent objets de rivalité. Les dirigeants cherchaient à s’approprier les bienfaits du Cosm par des moyens politiques ou armés, allant parfois jusqu’à réclamer la tutelle des Gardiens eux-mêmes. Les fêtes solennelles s’espacèrent, puis cessèrent. Le peuple oublia peu à peu la signification des anciennes traditions : il ne restait plus que des rituels creux, dépourvus de ferveur.
+
+Ce fut dans ce climat de division qu’eut lieu la première défection. Un Gardien, dont le nom fut effacé des chroniques, quitta son temple dans la nuit, emportant avec lui la pierre qu’il protégeait. On raconte qu’il voulait fuir les manipulations auxquelles son ordre était désormais soumis. D’autres disent qu’il avait entendu la voix du Cosm lui-même, l’incitant à libérer sa puissance pour restaurer l’équilibre. Cette trahison fit trembler le monde : les autres temples renforcèrent leur garde, et la méfiance s’installa jusque parmi les fidèles.
+
+Deux siècles plus tard, les défections se multiplièrent. Certains Gardiens furent séduits par les promesses de souverains avides de pouvoir. D’autres, désespérés de voir leur devoir perverti, choisirent la fuite ou la mort plutôt que la servitude. Les pierres légendaires, une à une, disparurent dans la nature. Sans leur présence pour stabiliser le flux du Cosm, l’équilibre de [[WizeCosm]] commença à vaciller de nouveau.
+
+## L’ombre du désastre
+
+Avec la perte des pierres, le monde connut une lente agonie. [[L'Altération par le Cosm]] reparut, et les créatures déformées jaillirent à nouveau des entrailles de la terre et des abysses. Les cités furent abandonnées, les temples désertés, leurs murs autrefois lumineux envahis par la poussière et la végétation s'effondrèrent peu à peu. L’Ère des Gardiens prit fin dans un silence funèbre, tandis que [[Le Cosm]] libéré et chaotique, reprenait sa domination sur les êtres qu’il avait jadis façonnés.

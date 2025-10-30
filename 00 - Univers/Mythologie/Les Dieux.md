@@ -1,0 +1,7 @@
+Les Dieux de notre univers furent les premiers souffles du néant, les sources d’où jaillit toute existence. Dans leur immensité, ils façonnèrent la lumière et l’obscurité, traçant les frontières entre le temps et l’espace. Désireux de contempler leur œuvre se multiplier, ils donnèrent naissance aux créatures célestes ([[Les Créatures Célestes]]), gardiennes et bâtisseuses des mondes.
+
+Ces entités lumineuses façonnèrent [[Les Astres]], allumèrent les soleils et tissèrent les voiles des galaxies. Sous leur influence, la matière prit forme, la vie émergea, et mille royaumes virent le jour dans la danse éternelle des cieux.
+
+Les Dieux, quant à eux, observaient depuis leurs sanctuaires d’éternité. Leur regard portait sur chaque étoile, sur chaque souffle de vie. Mais leur grandeur était égale à leur orgueil : souvent, des désaccords naissaient parmi eux. Lorsque les Dieux entraient en discorde, leurs créations, reflet de leurs passions et de leurs colères, s’opposaient à leur tour. Alors, les mondes s’embrasaient, les océans se fendaient, et de nouvelles terres surgissaient du chaos.
+
+Ainsi va le cycle divin : création, destruction, renaissance. Depuis l’aube des temps, l’univers se tisse et se défait au gré des volontés divines, dans la symphonie infinie des Dieux et de leurs enfants célestes.
