@@ -1,6 +1,7 @@
 
 # Univers WizeCosm
-![[Pasted image 20251029202225.png]]
+![alt text](/05%20-%20Assets/Pasted%20image%2020251029202225.png)
+
 
 
 ## Présentation générale
