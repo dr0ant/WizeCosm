@@ -1,0 +1,114 @@
+{
+  "collapse-filter": true,
+  "search": "-path:\"07 - Migration EVERNOTE\"  ",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"00 - Univers/Les Races\" ",
+      "color": {
+        "a": 1,
+        "rgb": 12387589
+      }
+    },
+    {
+      "query": "path:\"01 - Géographie\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1360439
+      }
+    },
+    {
+      "query": "path:\"00 - Univers/Les Factions\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3069643
+      }
+    },
+    {
+      "query": "path:\"00 - Univers/Plénitude\"",
+      "color": {
+        "a": 1,
+        "rgb": 984957
+      }
+    },
+    {
+      "query": "path:\"00 - Univers/Politique\"",
+      "color": {
+        "a": 1,
+        "rgb": 12717985
+      }
+    },
+    {
+      "query": "path:\"00 - Univers/Les Cultes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15791125
+      }
+    },
+    {
+      "query": "path:\"04 - Arcs\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:\"000 - Core Axes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11355941
+      }
+    },
+    {
+      "query": "path:\"03 - Personnages\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11497496
+      }
+    },
+    {
+      "query": "path:\"00 - Univers/Le Cosm\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7998105
+      }
+    },
+    {
+      "query": "path:\"00 - Univers/Mythologie\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701199
+      }
+    },
+    {
+      "query": "path:\"00 - Univers/Planètes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1005752
+      }
+    },
+    {
+      "query": "path:\"00 - Univers/Les Cosmers\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8259335
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.91855875651042,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.323404947916667,
+  "repelStrength": 10.6827799479167,
+  "linkStrength": 0.654744466145833,
+  "linkDistance": 30,
+  "scale": 0.14543726855852362,
+  "close": true
+}
