@@ -1,0 +1,1 @@
+Le monde que j'ai créé sortait d'une grande période de tumulte. Avec l'arrivée du Cosm, cette puissance qui a dans un premier temps ravagé le monde puis qui est devenue centrale chez les êtres vivant
