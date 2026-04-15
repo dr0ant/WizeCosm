@@ -37,3 +37,104 @@ Concepts à introduire :
 - [[Le Cosm]]
 - [[Cosmer]]
 - [[Faction Yamé]]
+
+---
+
+## Organisation du récit
+
+## 1. Introduction : Hank en mauvaise posture
+
+- La nouvelle s’ouvre sur **Hank**, en très mauvaise posture face à la créature.
+    
+- Il s’apprête à recevoir un **coup potentiellement fatal**.
+    
+- Dans un bref retour introspectif, il **résume comment il en est arrivé là**.
+    
+
+## 2. Flashback : Point de vue de Bhaus
+
+- Quelques **semaines auparavant**, Bhaus explore la région.
+    
+- Il **découvre progressivement** l’histoire et la nature de la créature.
+    
+- La **timeline rejoint** celle du début, au moment où **Bhaus intervient** et aperçoit Hank en danger.
+    
+
+## 3. Intervention décisive : Bhaus sauve Hank
+
+- **Bhaus entre en scène** et sauve Hank **in extremis**.
+    
+- Action tendue et dramatique marquant la **rencontre des deux protagonistes**.
+    
+
+## 4. Combat conjoint : Deux rivaux unis
+
+- Le **point de vue devient partagé** entre Hank et Bhaus.
+    
+- Les deux rivaux **s’allient pour combattre** la créature.
+    
+- Le combat se termine par **une victoire** suivie d’un **moment de complicité** entre eux.
+    
+
+## 5. Épilogue : La voix de l’épée
+
+- **Bhaus entend la voix de l’épée**, suggérant un mystère plus profond.
+    
+- **Fin ouverte**, laissant présager la suite ou une révélation à venir.
+---
+```mermaid
+
+flowchart LR
+    subgraph Histoire
+        H0[Début histoire] --> H1[Hank en mauvaise posture]
+        H1 --> H2[Arrivée de Bhaus]
+        H2 --> H3[Combat contre la créature]
+        H3 --> H4[Victoire + complicité]
+        H4 --> H5[Voix de l'épée / Fin]
+    end
+    subgraph Hank
+        K0["Avant le combat<br/>(hors champ)"] --> K1[Face à la créature]
+        K1 --> K2[Sauvé in extremis par Bhaus]
+        K2 --> K3[Combat conjoint]
+        K3 --> K4[Moment de complicité]
+    end
+    subgraph Bhaus
+        B0[Exploration de la région] --> B1[Découverte de la créature]
+        B1 --> B2[Arrive où se trouve Hank]
+        B2 --> B3[Sauve Hank]
+        B3 --> B4[Combat conjoint]
+        B4 --> B5[Entend la voix de l'épée]
+    end
+    H1 --- K1
+    H2 --- B2
+    H2 --- K2
+    H3 --- K3
+    H3 --- B4
+    H4 --- K4
+    H5 --- B5
+```
+
+
+
+---
+Idées d'ouverture de L'histoire.
+
+
+Draft 1 :
+
+Hank, pourtant de nature robuste commençais à fatiguer. Il sentais sur sa tempe sa sueur se mélanger au sang de sa plaie ouverte. Ce picotement vif le sorti rapidement de son étourdissement, lui permettant d'esquiver un coup de mandibule de la créature qui se dressait face à lui. 
+
+Dans la pénombre de la grotte cette gigantesque araignée avait un avantage certain sur Hank. Il s'en voulait amèrement de s'être jeté dans ce combat tête baissé.
+
+*Quel con !*, pensa Hank en serrant les dents.
+
+Il repensa ensuite aux évènements qui l'avaient mené dans ce pétrin.
+
+D'abord il y avait eu sa promotion dans l'ordre des Cosmers. Cette nouvel l'avait galvanisé, il faisait désormais parti de l'élite de l'ordre chevalier. Mais évidement ce n'était pas tout, son rival de toujours, lui aussi avait été promu. Encore une fois rien n'avait pas permis de les départager.
+
+Ensuite il y avait eu la publication des nouvelles missions. ces dernières, classées de rang de F pour les plus faciles à SSS pour les missions d'élite étaient re-publiées chaque semaine. Pour assoir son nouveau statut Hank avait choisit une mission stratégique pour se faire bien voir.
+En Aldisil, une région contrôlée par les Elfs de la faction Gamé*, une ancienne créature devenue aggressive s'en était prise à la population. L'ordre avait successivement rehausser le niveau de la mission de C à S car les Cosmers missionés ne revenaient pas.
+
+
+
+
