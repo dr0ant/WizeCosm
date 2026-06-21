@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs -I{} sh -c 'echo \"=== {} ===\" && wc -l < \"{}\"')",
+      "Bash(/init)",
+      "Bash(python3 *)"
+    ]
+  }
+}
