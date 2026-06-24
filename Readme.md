@@ -1,6 +1,6 @@
 
 # Univers WizeCosm
-![alt text](/05%20-%20Assets/Pasted%20image%2020251029202225.png)
+![alt text](/05%20-%20Assets/new_map.png)
 
 
 
